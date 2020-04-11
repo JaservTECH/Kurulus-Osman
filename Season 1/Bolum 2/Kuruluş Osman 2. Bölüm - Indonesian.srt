@@ -1,0 +1,5200 @@
+1
+00:02:12,355 --> 00:02:13,335
+ Keluar! 
+
+2
+00:02:13,340 --> 00:02:14,865
+ Angle! Keluar! Angle! 
+
+3
+00:02:15,320 --> 00:02:16,080
+ Tetap tenang! 
+
+4
+00:02:16,280 --> 00:02:17,560
+ Angle! Angle! 
+
+5
+00:02:17,560 --> 00:02:18,160
+ Keluar! 
+
+6
+00:02:18,220 --> 00:02:18,860
+ Keluar! 
+
+7
+00:02:19,160 --> 00:02:20,100
+ Buka jalan! 
+
+8
+00:02:21,060 --> 00:02:22,060
+ Buka jalan! 
+
+9
+00:02:22,705 --> 00:02:23,705
+ Keluar! 
+
+10
+00:02:28,435 --> 00:02:30,435
+ Jawab pertanyaanku. 
+
+11
+00:02:32,235 --> 00:02:35,155
+ Saya akan mengurus Anda setelah menyelamatkan hidup saya. 
+
+12
+00:02:36,520 --> 00:02:37,580
+ Apa yang kamu lakukan disini 
+
+13
+00:02:41,000 --> 00:02:42,460
+ Apakah Anda membunuh Tekfur? 
+
+14
+00:02:45,180 --> 00:02:47,460
+ Apa Tekfur? Apa yang harus dibunuh? 
+
+15
+00:02:50,515 --> 00:02:53,365
+ Sebagai orang Turki, apa yang Anda lakukan di sini? 
+
+16
+00:03:12,700 --> 00:03:14,180
+ Anda akan membunuhnya lebih banyak. 
+
+17
+00:03:17,940 --> 00:03:19,900
+ Putra Ertuğrul, Osman ... 
+
+18
+00:03:23,580 --> 00:03:25,360
+ Apa yang kamu lakukan 
+
+19
+00:03:26,355 --> 00:03:27,645
+ Dari mana asalmu sekarang? 
+
+20
+00:03:38,175 --> 00:03:39,665
+ Putra Ertuğrul Bey ... 
+
+21
+00:03:40,040 --> 00:03:41,480
+ ... Osman terkenal dia? 
+
+22
+00:03:43,740 --> 00:03:45,560
+ Itu adalah api seperti ayahnya. 
+
+23
+00:03:50,755 --> 00:03:52,315
+ Kurt dari ayahnya ... 
+
+24
+00:03:52,780 --> 00:03:54,140
+ ... mereka mengatakan mereka serigala. 
+
+25
+00:04:00,200 --> 00:04:03,280
+ Lihat tugasmu, aku akan mengurusnya. 
+
+26
+00:04:47,080 --> 00:04:49,120
+ Ayub dua puluh enam sampai tujuh ... 
+
+27
+00:04:51,165 --> 00:04:53,375
+ Ayub dua puluh enam sampai tujuh ... 
+
+28
+00:04:55,560 --> 00:04:56,780
+ Itu ... 
+
+29
+00:04:57,560 --> 00:04:59,100
+ ... atas kekosongan ... 
+
+30
+00:04:59,420 --> 00:05:00,660
+ ... menyebar ke utara ... 
+
+31
+00:05:01,220 --> 00:05:02,700
+ ... tentang ketiadaan ... 
+
+32
+00:05:04,280 --> 00:05:05,880
+ ... dunia ... 
+
+33
+00:05:08,500 --> 00:05:09,500
+ ... tongkat! 
+
+34
+00:05:21,195 --> 00:05:22,715
+ [Seratus empat puluh delapan ...] 
+
+35
+00:05:23,885 --> 00:05:24,885
+ [... tiga ...] 
+
+36
+00:05:25,825 --> 00:05:27,295
+ [... muliakan dia ...] 
+
+37
+00:05:30,805 --> 00:05:32,235
+ [... matahari dan bulan ...] 
+
+38
+00:05:32,875 --> 00:05:35,075
+ ... semua bintang yang bersinar. 
+
+39
+00:05:44,675 --> 00:05:46,065
+ Enam dalam empat. 
+
+40
+00:05:47,420 --> 00:05:49,120
+ Perairan luas ... 
+
+41
+00:05:49,420 --> 00:05:51,660
+ ... Anda mengenakan pakaian seperti pakaian. 
+
+42
+00:05:53,040 --> 00:05:54,100
+ Dan air ... 
+
+43
+00:05:54,840 --> 00:05:57,500
+ berdiri di atas gunung. 
+
+44
+00:06:43,920 --> 00:06:45,900
+ Terima kasih tak berujung kepada Tuhanku. 
+
+45
+00:06:46,320 --> 00:06:47,540
+ Allahu akbar. 
+
+46
+00:06:47,580 --> 00:06:48,700
+ Allahu akbar. 
+
+47
+00:06:48,760 --> 00:06:50,160
+ Allahu akbar. 
+
+48
+00:06:50,220 --> 00:06:51,260
+ Allahu akbar. 
+
+49
+00:06:51,360 --> 00:06:52,800
+ Allahu akbar. 
+
+50
+00:06:52,840 --> 00:06:53,900
+ Allahu akbar. 
+
+51
+00:06:55,380 --> 00:06:57,000
+ Tuan kita berkata ... 
+
+52
+00:06:57,260 --> 00:06:59,120
+ ... kita harus menemukan kepercayaan. 
+
+53
+00:07:11,875 --> 00:07:12,875
+ Saya menemukan! 
+
+54
+00:07:22,425 --> 00:07:24,685
+ Bismillahirrahmanirrahim. 
+
+55
+00:07:42,440 --> 00:07:44,200
+ Inna fetahna ... 
+
+56
+00:07:44,260 --> 00:07:46,220
+ ... menodai fethan mubina. 
+
+57
+00:07:47,360 --> 00:07:48,240
+ Puji. 
+
+58
+00:07:49,355 --> 00:07:50,355
+ Terima kasih Tuhan. 
+
+59
+00:07:54,580 --> 00:07:57,160
+ Karena Tekfur sudah mati, ada keributan di mana-mana. 
+
+60
+00:07:57,380 --> 00:07:59,500
+ Waktunya ketat, ayo cepat. 
+
+61
+00:07:59,800 --> 00:08:00,880
+ Kami harus menyusun tesis. 
+
+62
+00:08:00,960 --> 00:08:02,240
+ Entah bismillah! 
+
+63
+00:08:14,580 --> 00:08:17,080
+ Anda tidak merawat Tekfur Anda. 
+
+64
+00:08:19,775 --> 00:08:22,205
+ Anda mengubur istananya sendiri padanya. 
+
+65
+00:08:23,260 --> 00:08:26,760
+ Komandan terkutuk seperti Anda. 
+
+66
+00:08:29,520 --> 00:08:32,440
+ Tak satu pun dari Anda seperti Osman! 
+
+67
+00:08:33,755 --> 00:08:35,425
+ Sial. 
+
+68
+00:08:38,065 --> 00:08:39,375
+ Jawab aku! 
+
+69
+00:08:40,055 --> 00:08:42,325
+ Bagaimana Anda bisa tidak mengambil tindakan pencegahan? 
+
+70
+00:08:43,985 --> 00:08:45,055
+ Bagaimana? 
+
+71
+00:08:47,060 --> 00:08:50,500
+ Tidak ada pengkhianat di kastil ini yang berarti kehidupan Tekfur kami. 
+
+72
+00:08:52,040 --> 00:08:54,840
+ Kami adalah putra-putranya. 
+
+73
+00:08:55,015 --> 00:08:57,685
+ Kami akan memberikan hidup kami sendiri dan melindunginya. 
+
+74
+00:08:58,240 --> 00:09:00,460
+ Kami akan menanyai semua orang di kastil. 
+
+75
+00:09:00,500 --> 00:09:03,220
+ Kami akan membuat semua orang berbicara satu per satu. 
+
+76
+00:09:03,645 --> 00:09:05,295
+ Di mana Tekfur terakhir? 
+
+77
+00:09:05,565 --> 00:09:08,675
+ Dengan siapa dia? Kami akan mempelajari semuanya. 
+
+78
+00:09:08,875 --> 00:09:10,845
+ Dia ada di kamar terakhirnya. 
+
+79
+00:09:12,035 --> 00:09:15,125
+ Saya mengirimnya ke kamarnya untuk memanggil Helen. 
+
+80
+00:09:17,200 --> 00:09:20,680
+ Setelah saya memberi tahu Tekfur undangan kami, 
+
+81
+00:09:20,680 --> 00:09:22,140
+ ... bertindak. 
+
+82
+00:09:22,735 --> 00:09:25,765
+ Tapi sebelum dia masuk ke kamarnya ... 
+
+83
+00:09:26,145 --> 00:09:29,455
+ ... Saya melihat putra Ertuğrul, Osman, meninggalkan kamarnya. 
+
+84
+00:09:30,285 --> 00:09:31,395
+ Apa yang kamu katakan 
+
+85
+00:09:32,520 --> 00:09:33,960
+ Apakah Anda yakin itu Osman? 
+
+86
+00:09:33,960 --> 00:09:34,680
+ Iya tuan 
+
+87
+00:09:35,040 --> 00:09:37,100
+ Putra yang saya lihat adalah putra Ertuğrul, Osman. 
+
+88
+00:09:37,595 --> 00:09:38,595
+ Osman ... 
+
+89
+00:09:42,380 --> 00:09:45,260
+ Segera bawa bagian bawah kastil, Andreas. 
+
+90
+00:09:45,440 --> 00:09:47,540
+ Memobilisasi semua komandan. 
+
+91
+00:09:47,640 --> 00:09:49,360
+ Cari kastil! 
+
+92
+00:10:19,105 --> 00:10:20,105
+ Ayo. 
+
+93
+00:10:20,300 --> 00:10:21,440
+ Saya mendengar langkah kaki. 
+
+94
+00:10:22,700 --> 00:10:23,740
+ Jangan khawatir. 
+
+95
+00:10:23,775 --> 00:10:25,385
+ Ini akan segera pulih. 
+
+96
+00:10:26,035 --> 00:10:28,965
+ Dia memiliki hati untuk menantang dunia hukuman. 
+
+97
+00:10:29,205 --> 00:10:32,035
+ Dia akan merawat kepalanya. Ayo. 
+
+98
+00:11:00,140 --> 00:11:01,900
+ Semoga Anda dipercayakan kepada Allah. 
+
+99
+00:11:04,820 --> 00:11:05,500
+ Ayo! 
+
+100
+00:12:06,780 --> 00:12:08,080
+ [Ayo cepat!] 
+
+101
+00:12:08,080 --> 00:12:09,500
+ Lari, lari cepat! Lari, lari! 
+
+102
+00:12:09,580 --> 00:12:10,800
+ Ayo! Cepatlah! 
+
+103
+00:12:10,800 --> 00:12:11,560
+ Cepat! 
+
+104
+00:12:42,260 --> 00:12:43,400
+ Beritahu para komandan! 
+
+105
+00:12:43,460 --> 00:12:46,320
+ Osman menyusup ke dalam kastil. Apakah Anda membunuh Tekfur? 
+
+106
+00:13:05,035 --> 00:13:06,575
+ Aku berjanji padamu 
+
+107
+00:13:06,920 --> 00:13:08,540
+ Saya akan menemukan Osman ... 
+
+108
+00:13:08,625 --> 00:13:10,720
+ ... dan kami akan menangani semuanya. 
+
+109
+00:13:21,480 --> 00:13:25,280
+ Saya katakan bahwa bintang-bintang akan membantu kita malam ini. 
+
+110
+00:13:27,120 --> 00:13:28,360
+ Komandan Kalanoz! 
+
+111
+00:13:28,500 --> 00:13:29,360
+ Komandan Kalanoz! 
+
+112
+00:13:31,560 --> 00:13:33,700
+ Kamar berbintang Osman di Sofia! 
+
+113
+00:13:34,800 --> 00:13:36,360
+ Ruang bintang? 
+
+114
+00:13:36,360 --> 00:13:37,420
+ Saya akan menangkapnya, Sofia. 
+
+115
+00:13:40,180 --> 00:13:41,900
+ Apa yang dilakukan Osman di sana? 
+
+116
+00:13:42,760 --> 00:13:44,100
+ Peninggalan suci! 
+
+117
+00:14:18,260 --> 00:14:21,040
+ Anda membunuh Tekfur kami, anjing keji! 
+
+118
+00:14:21,180 --> 00:14:22,920
+ Algojo Tekfur ... 
+
+119
+00:14:23,780 --> 00:14:25,520
+ ... yang paling tidak bersalah dari Anda. 
+
+120
+00:14:57,540 --> 00:14:58,480
+ Menjalankan! 
+
+121
+00:14:58,480 --> 00:14:59,720
+ Dapatkan Osman! 
+
+122
+00:15:00,580 --> 00:15:02,480
+ Tangkap tanpa meninggalkan kastil! 
+
+123
+00:15:02,480 --> 00:15:03,280
+ Menjalankan! 
+
+124
+00:15:37,760 --> 00:15:39,560
+ Sialan! Kami akan melewatkannya. 
+
+125
+00:15:41,180 --> 00:15:48,720
+ (Lonceng berbunyi.) 
+
+126
+00:15:48,960 --> 00:15:50,060
+ Di mana Anda tinggal, tuan? 
+
+127
+00:15:58,720 --> 00:16:00,300
+ Di mana Anda, tuan? 
+
+128
+00:16:07,000 --> 00:16:09,720
+ Pak Bey, ambil ini, minum air. 
+
+129
+00:16:09,720 --> 00:16:10,240
+ Saya baik-baik saja, saya baik-baik saja, saya baik-baik saja 
+
+130
+00:16:14,340 --> 00:16:16,660
+ Saya khawatir tentang Anda ketika bel berbunyi. 
+
+131
+00:16:16,800 --> 00:16:17,660
+ Tekfur sudah mati. 
+
+132
+00:16:17,960 --> 00:16:19,540
+ Pembunuhan itu tetap menimpa saya. 
+
+133
+00:16:19,860 --> 00:16:21,000
+ Bagaimana dengan Anda, Tuan? 
+
+134
+00:16:23,240 --> 00:16:25,160
+ Kita perlu menemukan tempat untuk berlindung sesegera mungkin. 
+
+135
+00:16:25,200 --> 00:16:28,160
+ Mari kita pergi ke tukang kayu Mario, tempat kita berbelanja sebelumnya, Pak. 
+
+136
+00:16:28,260 --> 00:16:29,260
+ Anda memiliki pikiran yang baik. 
+
+137
+00:16:30,280 --> 00:16:31,940
+ Jangan katakan pada mereka yang mengatakan berhenti! 
+
+138
+00:16:32,440 --> 00:16:33,360
+ Curi pedang! 
+
+139
+00:16:33,400 --> 00:16:34,040
+ Terima kasih! 
+
+140
+00:16:34,040 --> 00:16:34,580
+ Ayo! 
+
+141
+00:17:02,565 --> 00:17:05,325
+ Mereka mengambil harta dan kepercayaan suci. 
+
+142
+00:17:05,865 --> 00:17:06,955
+ Sialan! 
+
+143
+00:17:11,345 --> 00:17:13,405
+ Tuhanku merusak dosa-dosaku. 
+
+144
+00:17:14,935 --> 00:17:17,465
+ Kirim berita ke master Yannis sekarang. 
+
+145
+00:17:17,885 --> 00:17:18,885
+ Sofia ... 
+
+146
+00:17:19,435 --> 00:17:20,715
+ ... Tuan Yannis ... 
+
+147
+00:17:20,715 --> 00:17:23,305
+ ... itu membayar kita berdua. 
+
+148
+00:17:28,740 --> 00:17:32,120
+ Bagaimana kita akan melihat wajah tuan Yannis? 
+
+149
+00:17:32,820 --> 00:17:33,480
+ Ha! 
+
+150
+00:17:35,640 --> 00:17:39,480
+ Kesedihan ini runtuh ke dalam hati kita tanpa bersukacita dalam konsepsi Tekfur. 
+
+151
+00:17:43,500 --> 00:17:44,500
+ Osman. 
+
+152
+00:17:46,100 --> 00:17:50,000
+ Saya akan menghapus hati Anda dengan gigi saya sendiri. 
+
+153
+00:17:52,440 --> 00:17:53,640
+ Osman! 
+
+154
+00:18:10,700 --> 00:18:12,620
+ Jelas tidak ada yang melihat kita. 
+
+155
+00:18:12,900 --> 00:18:13,880
+ Tidak masuk dan keluar. 
+
+156
+00:18:14,060 --> 00:18:16,680
+ Ketika saya bertemu Sheikh kami, saya akan segera berdoa. 
+
+157
+00:18:17,040 --> 00:18:19,160
+ Anda harus pergi pagi-pagi sekali. 
+
+158
+00:18:20,635 --> 00:18:22,385
+ Tidak akan datang 
+
+159
+00:18:23,775 --> 00:18:25,585
+ Cenk baru mulai, gadis. 
+
+160
+00:18:26,645 --> 00:18:29,525
+ Mereka yang melayani iblis akan bertindak. 
+
+161
+00:18:29,645 --> 00:18:32,925
+ Tekfur juga terbunuh, dan akan ada banyak kebingungan di sini. 
+
+162
+00:18:33,125 --> 00:18:34,645
+ Apakah Osman selamat? 
+
+163
+00:18:37,305 --> 00:18:38,785
+ Bagaimana jika dia tidak bisa pergi? 
+
+164
+00:18:42,265 --> 00:18:44,205
+ Syukurlah kepada Tuhanku. 
+
+165
+00:18:44,765 --> 00:18:46,235
+ Ahi universe ... 
+
+166
+00:18:46,765 --> 00:18:49,495
+ ... kami menemukan harta karun yang jatuh ke tangan musuh. 
+
+167
+00:18:50,380 --> 00:18:53,900
+ Kami memiliki kepercayaan berkat dari Yesevi Holiness sekarang. 
+
+168
+00:18:54,420 --> 00:18:55,320
+ Syukurlah. 
+
+169
+00:19:28,100 --> 00:19:29,795
+ Bey menggerogotiku. 
+
+170
+00:19:29,800 --> 00:19:31,400
+ Siapa yang membunuh Tekfur? 
+
+171
+00:19:31,960 --> 00:19:33,120
+ Saya tidak tahu, saudara. 
+
+172
+00:19:34,120 --> 00:19:35,120
+ Saya tidak tahu. 
+
+173
+00:19:35,535 --> 00:19:37,345
+ Tapi hanya ada satu hal yang saya tahu. 
+
+174
+00:19:38,080 --> 00:19:40,520
+ Dia juga yang paling dekat dengan Tekfur terbunuh. 
+
+175
+00:19:42,440 --> 00:19:43,480
+ Anda punya hak, tuan. 
+
+176
+00:19:44,020 --> 00:19:46,120
+ Ular di dada Tekfur. 
+
+177
+00:19:46,780 --> 00:19:47,940
+ Mengapa mereka membunuhnya? 
+
+178
+00:19:48,440 --> 00:19:49,880
+ Karena itu menyenangkan kita. 
+
+179
+00:19:50,280 --> 00:19:51,380
+ Mereka tidak bisa mencernanya. 
+
+180
+00:19:52,495 --> 00:19:54,945
+ Mereka ingin menyelesaikan perdamaian dan bertarung kembali. 
+
+181
+00:19:55,520 --> 00:19:57,220
+ Siapa yang akan menjadi bajingan itu? 
+
+182
+00:19:57,580 --> 00:20:00,680
+ Karena mereka memiliki pembunuhan keji ... 
+
+183
+00:20:02,565 --> 00:20:04,055
+ harus menjadi organisasi rahasia. 
+
+184
+00:20:04,755 --> 00:20:07,145
+ Lengannya menyebar ke seluruh Bitinya ... 
+
+185
+00:20:07,980 --> 00:20:09,280
+ ... sebuah organisasi rahasia. 
+
+186
+00:20:09,760 --> 00:20:12,560
+ Mereka mengambil kesempatan untuk memiliki ayah saya di Konya dan memulai serangan. 
+
+187
+00:20:12,820 --> 00:20:14,000
+ Mari kita tanyakan akunmu, pak. 
+
+188
+00:20:14,180 --> 00:20:15,900
+ Kalanoz sudah akan terbang. 
+
+189
+00:20:16,940 --> 00:20:19,840
+ Niat mereka adalah menembakkan api dari saya. 
+
+190
+00:20:21,300 --> 00:20:22,300
+ Saudaraku ... 
+
+191
+00:20:23,055 --> 00:20:25,175
+ ... kita mendapat kecaman dari kedua belah pihak. 
+
+192
+00:20:28,645 --> 00:20:30,505
+ Biarawati berpakaian sebagai biarawati ... 
+
+193
+00:20:31,695 --> 00:20:32,935
+ ... keselamatan kita adalah cewek ini. 
+
+194
+00:20:33,880 --> 00:20:36,440
+ Jika kita menemukannya, kita akan menemukan pembunuh Tekfur ... 
+
+195
+00:20:36,620 --> 00:20:38,080
+ ... pengkhianat di kastil. 
+
+196
+00:20:48,395 --> 00:20:49,965
+ Apakah Anda menemukan iblis itu? 
+
+197
+00:20:49,965 --> 00:20:53,040
+ Tempat itu terbelah, seolah antikristus memasuki Turki. 
+
+198
+00:20:53,040 --> 00:20:57,180
+ Kecuali kita menangkap Osman, tidak ada kedamaian di negeri ini! 
+
+199
+00:20:57,280 --> 00:20:58,520
+ Saya akan menemukannya! 
+
+200
+00:20:59,040 --> 00:21:02,480
+ Aku bersumpah demi Tuhan bahwa aku akan menemukannya dan membunuhnya dengan tanganku sendiri. 
+
+201
+00:21:04,480 --> 00:21:06,060
+ Tidak mudah menemukannya. 
+
+202
+00:21:07,295 --> 00:21:09,145
+ Dia harus datang dengan kakinya sendiri. 
+
+203
+00:21:09,925 --> 00:21:10,925
+ Bagaimana? 
+
+204
+00:21:11,420 --> 00:21:15,900
+ Dia adalah seorang Turki yang mengungkapkan hidupnya sendiri agar tidak membunuh Tekfur. 
+
+205
+00:21:17,400 --> 00:21:22,240
+ Jika kami mengambil salah satu dari darahmu sendiri dari hidupmu sendiri ... 
+
+206
+00:21:23,100 --> 00:21:26,460
+ akan menyerah untuk menyelamatkannya. 
+
+207
+00:21:27,900 --> 00:21:31,260
+ Malam ini iblis telah mengambil alih seluruh kastil. 
+
+208
+00:21:36,100 --> 00:21:39,720
+ Terkadang dia membutuhkan bantuan dari iblis untuk bertahan hidup. 
+
+209
+00:21:53,600 --> 00:21:56,560
+ Kami akan menerima deposit dari Dündar Bey. 
+
+210
+00:21:57,335 --> 00:21:58,845
+ Dan kepercayaan ini ... 
+
+211
+00:21:59,435 --> 00:22:02,515
+ ... akan membawa Osman keluar dari sumur yang dia hindari. 
+
+212
+00:22:03,105 --> 00:22:04,855
+ Dan karena Osman ... 
+
+213
+00:22:05,365 --> 00:22:08,175
+ ... akan ada kebakaran besar. 
+
+214
+00:22:12,135 --> 00:22:14,185
+ Saya akan mengirim orang yang paling saya percayai. 
+
+215
+00:22:16,865 --> 00:22:19,535
+ Dündar Bey akan sangat marah dengan situasi ini. 
+
+216
+00:22:20,055 --> 00:22:22,135
+ Dan kesepakatan itu akan rusak. 
+
+217
+00:22:25,695 --> 00:22:27,155
+ Perjanjian ... 
+
+218
+00:22:28,435 --> 00:22:31,805
+ ... tanpa ampun membunuh Tekfur kami ... 
+
+219
+00:22:31,965 --> 00:22:34,255
+ ... Anak Ertuğrul menghancurkan Osman. 
+
+220
+00:22:41,380 --> 00:22:45,140
+ Semua orang harus mendengar bahwa Osman melakukan pembunuhan ini. 
+
+221
+00:22:45,420 --> 00:22:46,860
+ Dan dia harus percaya. 
+
+222
+00:22:47,520 --> 00:22:52,820
+ Setiap orang harus tahu bagaimana lebah memperlakukan teman mereka. 
+
+223
+00:23:20,540 --> 00:23:22,100
+ [Apakah ada desturi?] 
+
+224
+00:23:22,620 --> 00:23:23,740
+ Datanglah ke Gündüz Bey. 
+
+225
+00:23:27,620 --> 00:23:29,920
+ Apakah masih ada berita dari Ottoman? 
+
+226
+00:23:31,895 --> 00:23:35,205
+ Jumlah pemilih yang tidak kami lihat, celah yang tidak kami masuki, tidak yakin. 
+
+227
+00:23:35,520 --> 00:23:36,820
+ Tapi sia-sia. 
+
+228
+00:23:37,460 --> 00:23:38,700
+ Apa yang ingin dia lakukan? 
+
+229
+00:23:39,300 --> 00:23:41,765
+ Di mana dia ingin tiba? Saya tidak keberatan. 
+
+230
+00:23:41,765 --> 00:23:45,240
+ Saat, salep dioleskan pada luka kita seperti dokter. 
+
+231
+00:23:45,740 --> 00:23:46,500
+ Itu terjadi ... 
+
+232
+00:23:47,140 --> 00:23:50,360
+ ... Menaburkan garam pada luka kita seperti musuh. 
+
+233
+00:23:53,640 --> 00:23:55,760
+ Dundar Bey keluar dari keinginan pekerjaan ini. 
+
+234
+00:23:56,340 --> 00:23:58,580
+ Ertuğrul Gazi juga harus tahu apa yang terjadi. 
+
+235
+00:24:00,120 --> 00:24:05,500
+ Anda harus mengirim surat ke Ertuğrul Bey kami untuk menjelaskan semua yang terjadi di oba. 
+
+236
+00:24:06,000 --> 00:24:09,700
+ Anda harus bertindak sebagai berita tentang Osman, yang tidak mendengarkan. 
+
+237
+00:24:10,100 --> 00:24:11,880
+ Bibiku berbicara kebenaran. 
+
+238
+00:24:12,120 --> 00:24:14,640
+ Sekarang untuk ayah saya di atas kudanya ... 
+
+239
+00:24:14,900 --> 00:24:16,380
+ ... jika dia masuk ke kamar ... 
+
+240
+00:24:16,540 --> 00:24:18,580
+ ... jika Osman bertanya di mana ... 
+
+241
+00:24:18,920 --> 00:24:20,180
+ kita memanggilnya apa? 
+
+242
+00:24:31,340 --> 00:24:33,380
+ Oh Osman ah ... 
+
+243
+00:24:35,340 --> 00:24:37,300
+ Lihat apa yang kau jatuhkan padaku? 
+
+244
+00:24:38,355 --> 00:24:39,515
+ Namun ... 
+
+245
+00:24:40,055 --> 00:24:41,985
+ ... kamu tidak meninggalkan jalan lain. 
+
+246
+00:24:44,685 --> 00:24:45,925
+ Anda tidak meninggalkan. 
+
+247
+00:24:55,620 --> 00:24:57,580
+ Selamun aleyküm Dündar Bey. 
+
+248
+00:24:57,700 --> 00:24:58,560
+ Halo halo. 
+
+249
+00:24:58,645 --> 00:24:59,640
+ Tuan Bamsı. 
+
+250
+00:25:01,280 --> 00:25:02,300
+ Sini Basin. 
+
+251
+00:25:02,620 --> 00:25:03,380
+ Terima kasih. 
+
+252
+00:25:17,220 --> 00:25:19,200
+ Semoga Anda ada, Dundar Bey. 
+
+253
+00:25:31,680 --> 00:25:33,740
+ Osman, Dundar Bey ... 
+
+254
+00:25:34,020 --> 00:25:35,120
+ Dimana ...? 
+
+255
+00:25:36,475 --> 00:25:39,925
+ Ada waktu yang baik, tetapi Osman tidak di tengah. 
+
+256
+00:25:42,055 --> 00:25:45,085
+ Serigala mencari peluang untuk menghisap darah. 
+
+257
+00:25:46,465 --> 00:25:47,535
+ Osman juga ... 
+
+258
+00:25:48,965 --> 00:25:51,155
+ ... mereka seharusnya tidak berburu seperti Aybaham. 
+
+259
+00:25:51,505 --> 00:25:54,905
+ Kami akan bertanya, Bamsı Bey. 
+
+260
+00:25:55,355 --> 00:25:58,805
+ Saya bukan putra, putra. Bey adalah Dündar Bey. 
+
+261
+00:25:59,475 --> 00:26:02,895
+ Perlu diperhatikan burung yang terbang dan angin yang bertiup. 
+
+262
+00:26:08,080 --> 00:26:10,620
+ Jika suatu situasi terjadi pada Osman ... 
+
+263
+00:26:11,065 --> 00:26:12,980
+ ... Bagaimana dengan Ertuğrul Bey? 
+
+264
+00:26:15,020 --> 00:26:15,740
+ HE? 
+
+265
+00:26:16,140 --> 00:26:17,720
+ Hari saudara! 
+
+266
+00:26:20,285 --> 00:26:21,285
+ HE? 
+
+267
+00:26:21,895 --> 00:26:23,245
+ Emmi Dündar! 
+
+268
+00:26:25,615 --> 00:26:26,615
+ Beyer. 
+
+269
+00:26:38,655 --> 00:26:39,655
+ Secepat mungkin ... 
+
+270
+00:26:40,795 --> 00:26:42,345
+ ... bahkan jika Ertuğrul Bey datang ... 
+
+271
+00:26:43,295 --> 00:26:44,825
+ ... ikatan ini baik-baik saja ... 
+
+272
+00:26:46,840 --> 00:26:48,120
+ ... jika sudah beres. 
+
+273
+00:27:12,020 --> 00:27:13,165
+ Segera! 
+
+274
+00:27:13,165 --> 00:27:15,715
+ Biarkan Gündüz Bey mengirim Pegunungan Alpen ke Osman. 
+
+275
+00:27:15,720 --> 00:27:18,360
+ Mereka seharusnya tidak datang tanpa jejak. 
+
+276
+00:27:30,680 --> 00:27:32,700
+ Maukah Anda mengirim surat itu, tuan? 
+
+277
+00:27:39,115 --> 00:27:40,485
+ Aku berkata kepadamu, tuan 
+
+278
+00:27:42,945 --> 00:27:44,775
+ Apa yang harus saya katakan kepada saudara laki-laki saya? 
+
+279
+00:27:45,195 --> 00:27:46,195
+ Apa yang harus saya katakan? 
+
+280
+00:27:46,905 --> 00:27:49,555
+ Bisakah saya mengatakan saya tidak bisa mengurus Osman? 
+
+281
+00:27:50,180 --> 00:27:52,020
+ Osman tidak bisa mengurus ... 
+
+282
+00:27:52,140 --> 00:27:54,720
+ ... bagaimana saya bisa mengatasinya, saudara? 
+
+283
+00:28:59,320 --> 00:29:01,300
+ Apakah Tekfur Yorgo Polos sudah mati? 
+
+284
+00:29:01,740 --> 00:29:02,460
+ Iya tuan 
+
+285
+00:29:03,960 --> 00:29:07,860
+ Jadi mengapa suara Anda sedingin salju di Gunung Olympus? 
+
+286
+00:29:08,260 --> 00:29:11,340
+ Utusan yang dikirim oleh Sir Sofia membawakanmu surat. 
+
+287
+00:29:11,520 --> 00:29:12,240
+ Baca. 
+
+288
+00:29:23,560 --> 00:29:25,500
+ Baca Baca Megala! 
+
+289
+00:29:25,600 --> 00:29:26,980
+ Apa yang tertulis di surat itu? 
+
+290
+00:29:32,225 --> 00:29:33,225
+ Sir. 
+
+291
+00:29:36,020 --> 00:29:39,500
+ Relik suci dan harta karun dicuri dari kamar ajaib. 
+
+292
+00:29:40,000 --> 00:29:42,160
+ Semua yang terjadi ketika Yorgo Polos terbunuh. 
+
+293
+00:29:42,165 --> 00:29:45,445
+ Siapa yang tahu lokasi ruang rahasia tempat rahasia itu disembunyikan? 
+
+294
+00:29:45,445 --> 00:29:48,645
+ Bagaimana mereka mempelajarinya, Megala? Bagaimana? 
+
+295
+00:29:50,265 --> 00:29:51,465
+ Siapa yang melakukannya 
+
+296
+00:29:51,825 --> 00:29:53,445
+ Osman, putra Ertuğrul Gazi. 
+
+297
+00:29:56,540 --> 00:30:00,520
+ Seekor kambing gembala menghancurkan segalanya. 
+
+298
+00:30:02,920 --> 00:30:03,920
+ Osman! 
+
+299
+00:30:04,200 --> 00:30:06,380
+ Osman, Osman, Osman! 
+
+300
+00:30:06,700 --> 00:30:08,020
+ Persiapkan kudaku. 
+
+301
+00:30:08,740 --> 00:30:10,740
+ Kami pergi ke Kastil Kulucahisar. 
+
+302
+00:30:11,220 --> 00:30:12,140
+ Aye. 
+
+303
+00:30:23,375 --> 00:30:25,085
+ Apa yang terjadi dengan toko ini? 
+
+304
+00:30:25,535 --> 00:30:27,405
+ Di mana-mana bingung. 
+
+305
+00:30:27,880 --> 00:30:29,000
+ Ow! 
+
+306
+00:30:30,420 --> 00:30:33,060
+ Dalam periode ini, Anda bahkan tidak akan mempercayai asisten Anda. 
+
+307
+00:30:33,465 --> 00:30:35,365
+ Semoga Tuhan menghukum kalian semua. 
+
+308
+00:30:38,160 --> 00:30:39,220
+ Siapa kamu 
+
+309
+00:30:39,680 --> 00:30:40,680
+ Apa yang kamu cari di toko ini? 
+
+310
+00:30:40,980 --> 00:30:42,200
+ Maaf, tuan. 
+
+311
+00:30:43,040 --> 00:30:44,440
+ Anda akan bekerja untuk kami hari ini. 
+
+312
+00:30:53,880 --> 00:30:55,500
+ Mari kita selesaikan pekerjaan ini. 
+
+313
+00:30:55,500 --> 00:30:56,440
+ Terima kasih tuan 
+
+314
+00:31:29,940 --> 00:31:31,180
+ Mobil sudah siap. 
+
+315
+00:31:31,935 --> 00:31:34,065
+ Saatnya berangkat. 
+
+316
+00:31:34,065 --> 00:31:36,340
+ Mereka akan menunggumu di luar kastil. 
+
+317
+00:31:37,025 --> 00:31:40,200
+ Saya menugaskan tentara di gerbang kastil. 
+
+318
+00:31:40,915 --> 00:31:43,125
+ Jika Anda berhenti dan bertanya ... 
+
+319
+00:31:43,180 --> 00:31:44,760
+ ... tidak terdengar. 
+
+320
+00:31:44,840 --> 00:31:46,660
+ Para prajurit itu akan menyelamatkanmu. 
+
+321
+00:31:47,840 --> 00:31:50,540
+ Semoga Allah dan membantu Anda, Dursun Bey. 
+
+322
+00:31:51,345 --> 00:31:54,335
+ Semoga Tuhanku membuatmu menang di tanah air yang kejam ini. 
+
+323
+00:31:54,645 --> 00:31:56,235
+ Semoga ada putriku. 
+
+324
+00:31:58,135 --> 00:31:59,395
+ Semoga Anda ada. 
+
+325
+00:32:02,635 --> 00:32:06,035
+ Dengan penuh hormat aku memberkati tangan tuanku yang penuh berkah. 
+
+326
+00:32:08,465 --> 00:32:11,555
+ Jangan membuat doa Anda kurang miskin ini. 
+
+327
+00:32:12,145 --> 00:32:13,285
+ Himmat untuk ... 
+
+328
+00:32:13,680 --> 00:32:16,200
+ ... kami membutuhkan nafasmu ... 
+
+329
+00:32:16,200 --> 00:32:17,520
+ ... pesan di sini. 
+
+330
+00:32:25,295 --> 00:32:26,545
+ Dursun Efendi. 
+
+331
+00:32:29,035 --> 00:32:31,225
+ Apakah ada kabar dari Osman? 
+
+332
+00:32:38,935 --> 00:32:41,975
+ Untuk saat ini belum ditemukan. 
+
+333
+00:32:43,205 --> 00:32:45,165
+ Putra Ertuğrul, Osman ... 
+
+334
+00:32:46,995 --> 00:32:50,385
+ ... tidak ada yang tahu kapan dan ke mana harus pergi. 
+
+335
+00:33:00,900 --> 00:33:03,060
+ Tuhan bantu kamu, Dursun Bey. 
+
+336
+00:33:03,140 --> 00:33:04,060
+ Amin. 
+
+337
+00:33:07,740 --> 00:33:09,400
+ Semoga Allah membantu Anda. 
+
+338
+00:33:23,020 --> 00:33:25,660
+ Wahai manusia! 
+
+339
+00:33:25,800 --> 00:33:26,960
+ Tadi malam ... 
+
+340
+00:33:27,040 --> 00:33:30,360
+ Tekfur kami, Yorgo Polos ... 
+
+341
+00:33:30,965 --> 00:33:32,565
+ ... telah dibunuh! 
+
+342
+00:33:34,195 --> 00:33:35,195
+ Tuhan ... 
+
+343
+00:33:35,380 --> 00:33:37,140
+ ... bawa dia ke surga. 
+
+344
+00:33:39,060 --> 00:33:42,460
+ Pembunuh Tekfur kami terbuat dari aprikot. 
+
+345
+00:33:42,800 --> 00:33:44,520
+ Putra Ertuğrul Bey ... 
+
+346
+00:33:44,900 --> 00:33:46,160
+ ... adalah Osman Bey. 
+
+347
+00:33:48,540 --> 00:33:50,380
+ Pembunuh Tekfur kami ... 
+
+348
+00:33:50,460 --> 00:33:51,800
+ ... adalah Osman Bey! 
+
+349
+00:33:54,300 --> 00:33:57,980
+ Kita tahu bahwa pembunuh ada di dalam diri kita. 
+
+350
+00:33:58,500 --> 00:34:00,940
+ Siapa pun yang membantunya ... 
+
+351
+00:34:01,320 --> 00:34:03,060
+ ... dengan keluarganya ... 
+
+352
+00:34:03,200 --> 00:34:04,980
+ ... akan menjadi hidupnya. 
+
+353
+00:34:07,940 --> 00:34:09,160
+ Tekfur'u kami ... 
+
+354
+00:34:09,660 --> 00:34:10,960
+ ... George Polos ... 
+
+355
+00:34:12,500 --> 00:34:13,500
+ Hentikan kusirnya! 
+
+356
+00:34:34,080 --> 00:34:35,440
+ Apa yang ada di dalam mobil? 
+
+357
+00:34:35,620 --> 00:34:36,840
+ Ada minyak zaitun extra virgin. 
+
+358
+00:34:37,240 --> 00:34:39,140
+ Buka dan mari kita lihat. 
+
+359
+00:34:45,125 --> 00:34:46,485
+ Biarkan tidak melihat siang hari. 
+
+360
+00:34:46,900 --> 00:34:48,500
+ Prajurit saya akan terbuang sia-sia. 
+
+361
+00:34:49,180 --> 00:34:50,080
+ Ini adalah minyak zaitun ... 
+
+362
+00:34:50,080 --> 00:34:50,780
+ Ayo! 
+
+363
+00:34:51,100 --> 00:34:52,780
+ Jangan ragu bahwa kamu tidak akan membuatku kelaparan di musim dingin. 
+
+364
+00:34:52,900 --> 00:34:53,800
+ Saya berkata terbuka untuk Anda! 
+
+365
+00:34:56,480 --> 00:34:58,740
+ Saya punya anak, saya tidak punya tentara. 
+
+366
+00:34:58,740 --> 00:34:59,740
+ Bagaimana jika saya lapar? 
+
+367
+00:34:59,740 --> 00:35:00,520
+ Lepaskan. 
+
+368
+00:35:00,680 --> 00:35:03,700
+ Kita tidak akan menemukan Osman dalam satu tong minyak zaitun. 
+
+369
+00:35:05,455 --> 00:35:07,975
+ Ayo! Tunggu, teman! 
+
+370
+00:35:11,945 --> 00:35:13,855
+ Semoga Tuhan mengampuni Anda untuk anak-anak Anda. 
+
+371
+00:35:27,215 --> 00:35:28,295
+ Buka pintunya! 
+
+372
+00:35:47,125 --> 00:35:50,485
+ [Tuhan, terima kasih. Kemenangan adalah milik kita.] 
+
+373
+00:36:29,480 --> 00:36:32,220
+ Kami berada di dekat gereja, tuan. Haruskah kita ikut denganmu? 
+
+374
+00:36:32,220 --> 00:36:33,640
+ Anda melakukan tugas saya. 
+
+375
+00:36:34,205 --> 00:36:37,315
+ Saya akan memasuki gereja sendirian. Sampai jumpa di Mayramushane. 
+
+376
+00:36:37,545 --> 00:36:38,545
+ Terima kasih tuan 
+
+377
+00:37:15,255 --> 00:37:16,765
+ Mudah, pendeta. 
+
+378
+00:37:22,515 --> 00:37:24,305
+ Selamat datang di rumah Tuhan. 
+
+379
+00:37:24,305 --> 00:37:26,645
+ Prajurit perkasa Yesus. 
+
+380
+00:37:27,365 --> 00:37:28,955
+ Saya berharap setiap orang ... 
+
+381
+00:37:30,020 --> 00:37:34,840
+ Jika Yesus memiliki kekuatan untuk menanggung penderitaan seperti Tuhan kita. 
+
+382
+00:37:35,260 --> 00:37:38,680
+ Para nabi diwujudkan dalam iman. 
+
+383
+00:37:41,125 --> 00:37:43,455
+ Menjadi seperti Tuhan Yesus kita ... 
+
+384
+00:37:43,725 --> 00:37:45,485
+ ... tidak mudah. 
+
+385
+00:37:49,175 --> 00:37:51,655
+ Seberapa beruntungnya Anda, imam pendeta? 
+
+386
+00:37:52,085 --> 00:37:54,605
+ Di jantung kuil seperti itu selama bertahun-tahun ... 
+
+387
+00:37:55,400 --> 00:37:57,560
+ ... jauh dari dosa, sampah ... 
+
+388
+00:37:57,980 --> 00:37:59,620
+ ... kamu punya seumur hidup. 
+
+389
+00:38:02,600 --> 00:38:05,340
+ Ini adalah pertama kalinya saya melihat Anda di gereja ini. 
+
+390
+00:38:05,560 --> 00:38:07,040
+ Karena saya datang untuk pertama kalinya. 
+
+391
+00:38:08,775 --> 00:38:11,875
+ Apakah Anda tahu wajah setiap orang dari komunitas Anda? 
+
+392
+00:38:12,200 --> 00:38:15,740
+ Di zaman ini, jemaat gereja-gereja kita telah jauh berkurang. 
+
+393
+00:38:16,540 --> 00:38:18,380
+ Sebagian besar dari mereka karena orang Turki ... 
+
+394
+00:38:18,445 --> 00:38:20,365
+ ... memilih untuk menjadi seorang Muslim. 
+
+395
+00:38:20,725 --> 00:38:23,565
+ Sesekali, orang-orang tua datang. 
+
+396
+00:38:23,595 --> 00:38:26,105
+ Ketika saya melihat orang-orang muda kita ... 
+
+397
+00:38:26,105 --> 00:38:27,560
+ ... Saya tidak mengejar mereka. 
+
+398
+00:38:28,120 --> 00:38:30,300
+ Jadi saya tidak bisa mengenali Anda. 
+
+399
+00:38:31,215 --> 00:38:32,655
+ Saya mencari seorang biarawati. 
+
+400
+00:38:33,895 --> 00:38:35,825
+ Dia penting bagi saya. 
+
+401
+00:38:37,105 --> 00:38:40,605
+ Mungkin saya bisa membantu jika Anda menyebut nama Anda. 
+
+402
+00:38:40,635 --> 00:38:41,965
+ Saya tidak tahu nama Anda. 
+
+403
+00:38:43,540 --> 00:38:47,260
+ Bagaimana saya dapat membantu Anda jika Anda tidak tahu nama Anda? 
+
+404
+00:38:49,520 --> 00:38:50,700
+ Bermata hitam ... 
+
+405
+00:38:51,085 --> 00:38:52,295
+ ... mata cokelat ... 
+
+406
+00:38:54,320 --> 00:38:55,820
+ ... ukuran ini. 
+
+407
+00:38:58,040 --> 00:39:01,600
+ Ada begitu banyak biarawati dalam skema bentuk itu, nak ... 
+
+408
+00:39:03,640 --> 00:39:07,640
+ Apa rahasia di biarawati yang mengejar Anda begitu banyak? 
+
+409
+00:39:08,040 --> 00:39:09,140
+ Utang hidup. 
+
+410
+00:39:12,025 --> 00:39:13,715
+ Saya ingin membayar hutang saya. 
+
+411
+00:39:16,395 --> 00:39:17,775
+ Wajah ... 
+
+412
+00:39:18,395 --> 00:39:20,515
+ ... bintik-bintik kecil menghiasi itu? 
+
+413
+00:39:32,095 --> 00:39:33,095
+ Ya. 
+
+414
+00:39:34,680 --> 00:39:38,660
+ Anda berbicara tentang Nevadoka, Perawan Maria dari gereja kami. 
+
+415
+00:39:39,200 --> 00:39:40,600
+ Di luar kota itu ... 
+
+416
+00:39:40,740 --> 00:39:42,200
+ dia tinggal di sebuah kuil. 
+
+417
+00:39:42,460 --> 00:39:43,220
+ Anda ... 
+
+418
+00:39:43,460 --> 00:39:45,060
+ ... Saya akan menjelaskannya. 
+
+419
+00:39:45,460 --> 00:39:46,600
+ Apakah kamu yakin 
+
+420
+00:39:47,080 --> 00:39:48,360
+ Lihat, nak. 
+
+421
+00:39:48,735 --> 00:39:50,575
+ Sekarang dengarkan aku. 
+
+422
+00:40:53,345 --> 00:40:54,345
+ Burcin. 
+
+423
+00:41:08,415 --> 00:41:09,905
+ Cukup sudah. 
+
+424
+00:41:11,100 --> 00:41:14,600
+ Kemarahan di dalam racun pertama Anda. Apakah kamu tidak melihat? 
+
+425
+00:41:15,080 --> 00:41:17,600
+ Pertama-tama, Aybars sekarang adalah string. 
+
+426
+00:41:17,880 --> 00:41:20,440
+ Siapa yang tahu bagaimana dia membuat mereka kesulitan? 
+
+427
+00:41:21,185 --> 00:41:24,165
+ Rasa garam tidak lebih karena itu. 
+
+428
+00:41:24,165 --> 00:41:27,375
+ Siapa yang tahu berapa banyak lagi darah yang berani akan Osman Osman, Aygül? 
+
+429
+00:41:32,465 --> 00:41:34,545
+ Anda masih khawatir tentang itu. 
+
+430
+00:41:35,055 --> 00:41:36,895
+ Kamu makan sendiri. 
+
+431
+00:41:37,580 --> 00:41:41,680
+ Tidak bisakah kau lihat bagaimana Osman yang asli meracunimu? 
+
+432
+00:41:42,440 --> 00:41:46,300
+ Suatu hari akan ada masalah besar bagi Anda juga. 
+
+433
+00:41:47,345 --> 00:41:48,345
+ Aku tahu. 
+
+434
+00:41:49,245 --> 00:41:51,075
+ Anda sangat terluka. 
+
+435
+00:41:52,455 --> 00:41:55,565
+ Anda akan mengalami rasa sakit sampai Anda berendam. 
+
+436
+00:41:56,655 --> 00:41:57,655
+ Namun ... 
+
+437
+00:41:58,440 --> 00:42:00,640
+ ... melupakan keilahian dan ... 
+
+438
+00:42:00,660 --> 00:42:02,040
+ ... kamu menyalahkan Osman. 
+
+439
+00:42:03,820 --> 00:42:06,200
+ Masalah yang akan datang kepadaku dari Osman ... 
+
+440
+00:42:06,320 --> 00:42:07,600
+ ... Saya menghitung kehormatan. 
+
+441
+00:42:09,055 --> 00:42:10,075
+ Anda tahu. 
+
+442
+00:42:12,825 --> 00:42:14,165
+ Saya tahu pasti. 
+
+443
+00:42:15,085 --> 00:42:16,845
+ Aybars adalah martir. 
+
+444
+00:42:18,475 --> 00:42:21,965
+ Namun, ini tidak mencakup ketidakpekaan Osman Bey. 
+
+445
+00:42:22,720 --> 00:42:25,655
+ Tidak ada yang disebut ziarah. Jika ... 
+
+446
+00:42:25,900 --> 00:42:28,320
+ ... suatu hari hatimu terbakar seperti aku ... 
+
+447
+00:42:28,640 --> 00:42:31,160
+ maka kamu akan menyadari kata-kataku. 
+
+448
+00:42:31,940 --> 00:42:33,360
+ Ayo mudah. 
+
+449
+00:42:34,585 --> 00:42:35,805
+ Burçin Hatun! 
+
+450
+00:42:36,385 --> 00:42:37,615
+ Burçin Hatun! 
+
+451
+00:42:40,105 --> 00:42:41,105
+ Memohon. 
+
+452
+00:43:36,285 --> 00:43:37,705
+ Ini adalah putri Dundar. 
+
+453
+00:43:38,675 --> 00:43:40,975
+ Mari kita selesaikan pekerjaan ini sebelum penjaga bangun. 
+
+454
+00:43:41,635 --> 00:43:42,635
+ Ayo. 
+
+455
+00:43:55,015 --> 00:43:57,385
+ Anda masih membenci Osman. 
+
+456
+00:44:02,020 --> 00:44:05,620
+ Ingatlah bahwa ia pergi untuk membalas pria yang Anda cintai. 
+
+457
+00:44:06,560 --> 00:44:09,020
+ Aygül mengambilnya dari saya. 
+
+458
+00:44:10,105 --> 00:44:12,215
+ Anda masih memanggil saya balas dendam. 
+
+459
+00:44:13,840 --> 00:44:17,740
+ Sama seperti itu membakar hati saya, itu juga akan membakar hati Anda ketika saatnya tiba. 
+
+460
+00:44:28,245 --> 00:44:29,575
+ Apa yang kamu inginkan 
+
+461
+00:44:29,900 --> 00:44:31,440
+ Apa yang kamu lakukan disini 
+
+462
+00:44:31,800 --> 00:44:33,220
+ Osman membunuh Tekfur kita. 
+
+463
+00:44:35,800 --> 00:44:37,680
+ Dia terjebak di istana seperti tikus. 
+
+464
+00:44:37,980 --> 00:44:41,040
+ Kita butuh makanan untuk mengeluarkannya dari lubang tempat dia terjebak. 
+
+465
+00:44:42,595 --> 00:44:44,355
+ Anda adalah Aygül Hatun. 
+
+466
+00:45:40,455 --> 00:45:42,455
+ Bismillahirrahmanirrahim. 
+
+467
+00:45:45,245 --> 00:45:47,355
+ Ketika Anda mengatakan ... 
+
+468
+00:45:47,940 --> 00:45:51,640
+ ... mengisi hati kita dengan cahaya iman ... 
+
+469
+00:45:51,960 --> 00:45:54,280
+ ... oleh sembilan puluh sembilan nama Allah SWT. 
+
+470
+00:45:59,185 --> 00:46:00,635
+ Ali Oğuz ... 
+
+471
+00:46:01,115 --> 00:46:02,585
+ ... Tuan-tuan yang gagah berani. 
+
+472
+00:46:03,695 --> 00:46:07,165
+ Ahval di Bitinya terkenal untuk Anda semua. 
+
+473
+00:46:08,245 --> 00:46:09,335
+ Saudaraku ... 
+
+474
+00:46:09,500 --> 00:46:13,020
+ ... tanah ini kami datang di bawah panji Ertuğrul Gazi ... 
+
+475
+00:46:13,420 --> 00:46:16,220
+ ... memikat wajah suburmu dari kami. 
+
+476
+00:46:17,020 --> 00:46:18,020
+ Informal ... 
+
+477
+00:46:18,235 --> 00:46:20,305
+ ... tidak bisa lagi membawa kita. 
+
+478
+00:46:21,320 --> 00:46:23,040
+ Ini masa lalu ... 
+
+479
+00:46:23,420 --> 00:46:26,040
+ ... baik orang-orang kita dan ... 
+
+480
+00:46:26,525 --> 00:46:28,345
+ ... kawanan kami telah meningkat. 
+
+481
+00:46:29,355 --> 00:46:30,365
+ Dalam setiap ... 
+
+482
+00:46:30,680 --> 00:46:34,280
+ ... ada banyak masalah dalam semua ukuran. 
+
+483
+00:46:35,300 --> 00:46:38,060
+ Sebagian dari kita memiliki air. 
+
+484
+00:46:38,795 --> 00:46:41,765
+ Beberapa dari kita memiliki rumput kecil. 
+
+485
+00:46:41,765 --> 00:46:43,125
+ Bandit ... 
+
+486
+00:46:43,405 --> 00:46:46,635
+ ... karavan, dan lelucon. 
+
+487
+00:46:47,505 --> 00:46:49,615
+ Itu sebabnya ... 
+
+488
+00:46:49,980 --> 00:46:53,300
+ ... salep untuk luka kita, masalah kita ... 
+
+489
+00:46:53,480 --> 00:46:54,760
+ ... kami mencari obat. 
+
+490
+00:46:55,980 --> 00:46:57,720
+ Obat itu ... 
+
+491
+00:46:58,715 --> 00:46:59,795
+ ... aliansi. 
+
+492
+00:47:05,605 --> 00:47:06,655
+ Ekstrak ... 
+
+493
+00:47:07,385 --> 00:47:08,565
+ ... Tetangga kami ... 
+
+494
+00:47:09,095 --> 00:47:11,685
+ ... Kulucahisar Tekfur dengan Yorgo Polos ... 
+
+495
+00:47:11,765 --> 00:47:13,965
+ ... kami menyegel perjanjian perdagangan. 
+
+496
+00:47:14,825 --> 00:47:16,065
+ Mereka berdua ... 
+
+497
+00:47:16,455 --> 00:47:19,195
+ ... dan kami akan menang. 
+
+498
+00:47:20,280 --> 00:47:23,760
+ Di pasar baru daripada di willow ... 
+
+499
+00:47:23,760 --> 00:47:26,740
+ .. semua barang kita akan dijual. 
+
+500
+00:47:26,740 --> 00:47:28,560
+ Sangat bagus, syukurlah. 
+
+501
+00:47:35,280 --> 00:47:37,000
+ Ayo, Samsa Bey. 
+
+502
+00:47:37,535 --> 00:47:39,935
+ Kamu terlihat tidak puas. 
+
+503
+00:47:43,055 --> 00:47:44,285
+ Pak Dundar. 
+
+504
+00:47:45,945 --> 00:47:47,475
+ Saudaraku, katamu ... 
+
+505
+00:47:48,475 --> 00:47:51,895
+ ... Ertuğrul Gazi tidak mencapai tujuan ini dengan membayar maple. 
+
+506
+00:47:52,905 --> 00:47:55,235
+ Bukan kita juga. 
+
+507
+00:47:55,235 --> 00:47:58,465
+ ... membawa kami ke jantung bak mandi seperti tombak. 
+
+508
+00:47:59,765 --> 00:48:00,965
+ Di luar itu ... 
+
+509
+00:48:01,525 --> 00:48:04,385
+ ... kami menambahkannya ke tanah ini, bukan karavan ... 
+
+510
+00:48:04,385 --> 00:48:06,445
+ ... di bawah bayang-bayang batu bata kepala serigala ... 
+
+511
+00:48:06,445 --> 00:48:08,595
+ Kami datang untuk memberi perintah kepada dunia. 
+
+512
+00:48:10,765 --> 00:48:11,805
+ Lihatlah ... 
+
+513
+00:48:12,645 --> 00:48:15,035
+ ... tidak ramah bagi kita dari Küffar. 
+
+514
+00:48:22,085 --> 00:48:23,085
+ The Beech ... 
+
+515
+00:48:23,445 --> 00:48:25,095
+ ... Tuan Samsa yang gagah berani. 
+
+516
+00:48:26,320 --> 00:48:31,860
+ Saya tahu bagaimana jantung Anda akan berdetak ketika datang ke gas dan cenk. 
+
+517
+00:48:33,220 --> 00:48:34,700
+ Tapi jangan lupa. 
+
+518
+00:48:35,365 --> 00:48:38,225
+ Asrama diambil dengan pusat tetapi ... 
+
+519
+00:48:38,725 --> 00:48:39,735
+ ... terpisah ... 
+
+520
+00:48:40,495 --> 00:48:42,135
+ ... tidak diinstal dengan pusat. 
+
+521
+00:48:44,455 --> 00:48:45,965
+ Apa yang Anda sebut Nizam ... 
+
+522
+00:48:46,385 --> 00:48:47,935
+ ... seperti maple ... 
+
+523
+00:48:48,695 --> 00:48:50,065
+ ... membutuhkan kecerdasan ... 
+
+524
+00:48:50,715 --> 00:48:51,875
+ ... ingin trik. 
+
+525
+00:48:54,875 --> 00:48:57,905
+ Dunsa Bey tidak ingin keluar informal dari gas. 
+
+526
+00:48:58,235 --> 00:48:59,935
+ Bukan gas untukmu ... 
+
+527
+00:49:00,575 --> 00:49:02,685
+ ... pesanan diperlukan, Samsa Bey. 
+
+528
+00:49:03,045 --> 00:49:04,305
+ Pembuat slot ... 
+
+529
+00:49:05,005 --> 00:49:06,785
+ ... kompor oba ... 
+
+530
+00:49:07,500 --> 00:49:10,020
+ ... kamp-kamp menjadi asrama. 
+
+531
+00:49:11,560 --> 00:49:14,680
+ Berapa kali saya katakan untuk membiarkan Anda mengambil kepala ... 
+
+532
+00:49:14,995 --> 00:49:16,535
+ ... kamu belum pernah ke sana. 
+
+533
+00:49:31,500 --> 00:49:35,380
+ Saya telah berjuang sejak hari saya meletakkan pusat hitam itu di pinggang saya. 
+
+534
+00:49:37,160 --> 00:49:40,620
+ Saya mengisi semak elang, saya merajut selimut langit. 
+
+535
+00:49:41,485 --> 00:49:44,905
+ Saya menjadi teman dengan Şahan dan derttaş dan burrito. 
+
+536
+00:49:45,235 --> 00:49:48,095
+ Saya tahu keberanian dan keramahannya Dundar Bey. 
+
+537
+00:49:48,760 --> 00:49:53,220
+ Tetapi ketika Cenk disebutkan, setengah dari Samsa, yang menjalankan anak kuda gila, adalah ... 
+
+538
+00:49:53,220 --> 00:49:55,740
+ ... ini adalah temannya. 
+
+539
+00:49:59,640 --> 00:50:00,800
+ Begitulah cara itu diketahui. 
+
+540
+00:50:03,375 --> 00:50:05,465
+ Saya minum dan memberi saya upeti. 
+
+541
+00:50:05,905 --> 00:50:07,955
+ Pernikahanku dengan ini. 
+
+542
+00:50:10,155 --> 00:50:11,155
+ Pernikahanku ... 
+
+543
+00:50:11,935 --> 00:50:12,935
+ ... şahadetl untuk. 
+
+544
+00:51:02,220 --> 00:51:04,960
+ Karena kami bersekutu dengan pusat kami ... 
+
+545
+00:51:05,240 --> 00:51:07,480
+ ... kami tidak mengesampingkannya, Samsa Bey. 
+
+546
+00:51:09,500 --> 00:51:11,020
+ Anda adalah teksnya. 
+
+547
+00:51:11,680 --> 00:51:13,560
+ Perjanjian dengan Tekfur ... 
+
+548
+00:51:13,840 --> 00:51:15,520
+ ... akan membawa kedamaian bagi semua orang. 
+
+549
+00:51:15,740 --> 00:51:18,440
+ Tidak ada kedamaian di mana kita bukan Gündüz Bey. 
+
+550
+00:51:21,755 --> 00:51:23,295
+ Masih belum belajar? 
+
+551
+00:51:31,465 --> 00:51:32,495
+ Anda bekerja ... 
+
+552
+00:51:33,080 --> 00:51:36,800
+ ... kamu membawa kedamaian. Sama-sama Alişar Bey. 
+
+553
+00:51:45,780 --> 00:51:48,520
+ Kami melihatnya, kami tidak mendengarnya. 
+
+554
+00:51:48,995 --> 00:51:49,995
+ Pak Dundar. 
+
+555
+00:51:52,220 --> 00:51:54,540
+ Tidak menyadari otak kanan .... 
+
+556
+00:51:55,025 --> 00:51:56,680
+ ... Anda membuat kesepakatan dengan Tekfur. 
+
+557
+00:52:11,375 --> 00:52:12,405
+ Begitu banyak ukuran ... 
+
+558
+00:52:13,275 --> 00:52:14,355
+ ... begitu banyak oba ... 
+
+559
+00:52:15,055 --> 00:52:17,685
+ ... dengan cara apa kita tenang? 
+
+560
+00:52:18,640 --> 00:52:22,340
+ Apakah kamu tidak tahu bahwa aku adalah bayangan sultan di negeri ini? 
+
+561
+00:52:24,860 --> 00:52:28,060
+ Alişar Bey, Anda beruntung. 
+
+562
+00:52:28,475 --> 00:52:31,915
+ Kami tidak melupakan ketertiban atau rasa hormat, evelallah. 
+
+563
+00:52:39,255 --> 00:52:40,575
+ Pintu kamu ... 
+
+564
+00:52:42,005 --> 00:52:43,625
+ ... bukan gerbang kelengkungan ... 
+
+565
+00:52:44,555 --> 00:52:46,535
+ Alişar Bey adalah pintu kebenaran. 
+
+566
+00:52:47,625 --> 00:52:50,845
+ Pertama-tama, kami telah merawat kekasaran kami ... 
+
+567
+00:52:51,045 --> 00:52:53,345
+ ... kami akan mengetuk pintu Anda ... 
+
+568
+00:52:53,575 --> 00:52:55,505
+ ... Anda bertindak sebelum kami. 
+
+569
+00:52:58,200 --> 00:53:00,360
+ [Biarkan aku melihat Dündar Bey!] 
+
+570
+00:53:00,720 --> 00:53:01,880
+ Apa yang terjadi di sana? 
+
+571
+00:53:04,520 --> 00:53:05,520
+ Tuan Dundar! 
+
+572
+00:53:05,620 --> 00:53:06,380
+ Burcin! 
+
+573
+00:53:06,980 --> 00:53:08,080
+ Mulai putri saya! 
+
+574
+00:53:08,260 --> 00:53:09,220
+ Mulai putri saya! 
+
+575
+00:53:09,460 --> 00:53:10,160
+ Apa ini 
+
+576
+00:53:10,380 --> 00:53:11,160
+ Apa yang terjadi padamu? 
+
+577
+00:53:11,160 --> 00:53:12,140
+ Siapa yang melakukan ini 
+
+578
+00:53:12,600 --> 00:53:15,200
+ Air minum, air minum, air minum. 
+
+579
+00:53:15,500 --> 00:53:17,200
+ Tangan tanpa darah mana yang mengangkatmu? 
+
+580
+00:53:17,340 --> 00:53:18,340
+ Vote. 
+
+581
+00:53:20,225 --> 00:53:21,225
+ Ayah. 
+
+582
+00:53:22,100 --> 00:53:23,940
+ Andreas, komandan Kalanoz. 
+
+583
+00:53:24,500 --> 00:53:25,820
+ Mereka menculik Aygül. 
+
+584
+00:53:25,820 --> 00:53:27,220
+ Bagaimana dengan kamu, gadis? 
+
+585
+00:53:27,600 --> 00:53:30,740
+ Beraninya kamu? Di mana mereka rindu? 
+
+586
+00:53:30,740 --> 00:53:32,940
+ Mereka menginjak mencuci pakaian di sungai, Pak. 
+
+587
+00:53:33,100 --> 00:53:34,820
+ Mereka mengambil Aygül dengan paksa. 
+
+588
+00:53:35,120 --> 00:53:36,980
+ Mereka memberi tahu saya bahwa saya harus memberi tahu Anda. 
+
+589
+00:53:36,980 --> 00:53:37,720
+ Apa yang mereka inginkan? 
+
+590
+00:53:38,140 --> 00:53:40,560
+ Nah, gadis, bicara. Apa yang mereka inginkan? 
+
+591
+00:53:40,560 --> 00:53:41,560
+ Osman. 
+
+592
+00:53:41,960 --> 00:53:43,340
+ Mereka menginginkan Osman. 
+
+593
+00:53:43,700 --> 00:53:45,600
+ Mereka memanggilmu untuk ini, tuan. 
+
+594
+00:53:46,080 --> 00:53:46,960
+ Osman? 
+
+595
+00:53:48,100 --> 00:53:49,880
+ Dia membunuh Osman Tekfur. 
+
+596
+00:53:51,035 --> 00:53:52,635
+ Mereka mencari dia di kastil. 
+
+597
+00:53:52,635 --> 00:53:55,415
+ Mereka mengambil sandera Aygül sehingga Osman bisa muncul. 
+
+598
+00:54:03,540 --> 00:54:08,120
+ Osman-ku, Osman-ku pasti pergi ke kastil untuk mencari pembunuh Aybars-ku. 
+
+599
+00:54:08,800 --> 00:54:12,260
+ Dundar Bey jelas menemukan petunjuk bagi Osman. 
+
+600
+00:54:12,620 --> 00:54:14,000
+ Itu sebabnya mereka mencarinya. 
+
+601
+00:54:14,000 --> 00:54:14,640
+ Emmi. 
+
+602
+00:54:14,920 --> 00:54:18,165
+ Mari kita mengejar tesis sebelum Osman dan Aygül memiliki sesuatu untuk terjadi. 
+
+603
+00:54:18,165 --> 00:54:21,505
+ Di siang hari, bersiaplah untuk perang dengan tuan-tuan. 
+
+604
+00:54:21,540 --> 00:54:23,560
+ Kita akan pergi ke kastil bersama Bamsı Bey. 
+
+605
+00:54:24,000 --> 00:54:27,780
+ Jika kita tidak kembali dari kastil itu, batu di atas batu ... 
+
+606
+00:54:27,980 --> 00:54:31,080
+ ... jangan tinggalkan kepala di bahu. 
+
+607
+00:54:31,880 --> 00:54:34,260
+ Saya mengatakan kepadanya bahwa dia tidak akan menjadi teman yang ramah. 
+
+608
+00:54:34,720 --> 00:54:37,300
+ Tidak ada menunggu, saya akan datang juga. 
+
+609
+00:54:37,520 --> 00:54:40,880
+ Anda tahu yang terbaik dari bahasa Kain Kafan. 
+
+610
+00:54:41,795 --> 00:54:42,795
+ Ayo. 
+
+611
+00:54:43,215 --> 00:54:44,305
+ Tuan Dundar! 
+
+612
+00:54:46,855 --> 00:54:49,565
+ Kemana Anda pergi sendirian saat kanan berdiri? 
+
+613
+00:54:50,285 --> 00:54:52,375
+ Mari kita lakukan tindakan pencegahan yang diperlukan terlebih dahulu ... 
+
+614
+00:54:52,375 --> 00:54:54,125
+ ... mari beri tahu sultan kita. 
+
+615
+00:54:55,415 --> 00:54:56,415
+ Kami ... 
+
+616
+00:54:56,660 --> 00:54:57,980
+ ... hormat sayang ... 
+
+617
+00:54:58,620 --> 00:55:00,580
+ darah dicuci dengan darah. 
+
+618
+00:55:00,980 --> 00:55:02,980
+ Saya tidak punya waktu untuk menunggu. 
+
+619
+00:55:03,260 --> 00:55:06,275
+ Anda harus melakukan tugas Anda sebagai ... 
+
+620
+00:55:06,275 --> 00:55:09,345
+ ... sebagai seorang ayah, sebagai seorang imigran ... 
+
+621
+00:55:09,795 --> 00:55:11,075
+ ... lakukan yang kamu butuhkan. 
+
+622
+00:55:12,335 --> 00:55:13,615
+ Dengan izin. 
+
+623
+00:55:33,480 --> 00:55:36,240
+ Lihatlah Osman, kepala pemburu Karaya. 
+
+624
+00:55:36,545 --> 00:55:40,020
+ Kami pergi semua perburuan, tidak pernah melihat target terkejut. 
+
+625
+00:55:41,175 --> 00:55:44,245
+ Dia pasti menyaksikan pembunuh Aybars langkah demi langkah. 
+
+626
+00:55:45,560 --> 00:55:46,700
+ Mari kita lihat. 
+
+627
+00:55:47,200 --> 00:55:49,220
+ Apa yang akan terjadi setelah pekerjaan ini? 
+
+628
+00:55:59,565 --> 00:56:02,175
+ Arah informal kami jelas. 
+
+629
+00:56:02,515 --> 00:56:05,145
+ Informasi yang akan kami dapatkan dari tempat kami pergi ... 
+
+630
+00:56:05,245 --> 00:56:08,325
+ ... akan membawa kita ke para pembunuh saudara lelakiku Aybars. 
+
+631
+00:56:08,485 --> 00:56:10,085
+ Putra Ertuğrul Bey, Osman! 
+
+632
+00:56:12,260 --> 00:56:14,660
+ Saya tahu Anda mendengar saya bahwa Anda berada di kastil! 
+
+633
+00:56:19,000 --> 00:56:21,060
+ Saya juga tahu bahwa Anda membunuh Tekfur. 
+
+634
+00:56:22,975 --> 00:56:23,975
+ Aygul. 
+
+635
+00:56:25,980 --> 00:56:27,680
+ Kami punya saksi! 
+
+636
+00:56:35,840 --> 00:56:37,780
+ Aygül, putri Dündar Bey, ada di tangan kita. 
+
+637
+00:56:39,380 --> 00:56:41,405
+ Untuk menyerah padamu ... 
+
+638
+00:56:41,405 --> 00:56:43,300
+ ... Saya berikan satu kesempatan terakhir. 
+
+639
+00:56:44,980 --> 00:56:49,020
+ Menyerah kepada Komandan Kalanoz sekarang! Atau putri Dundar Bey ... 
+
+640
+00:56:49,340 --> 00:56:51,700
+ ... akan keluar dari kepalamu! 
+
+641
+00:56:54,035 --> 00:56:55,735
+ Kami juga mengirim berita ke Dündar Bey. 
+
+642
+00:56:56,405 --> 00:56:59,035
+ Dia akan datang ke kastil cepat atau lambat untuk mengambil putrinya. 
+
+643
+00:57:00,655 --> 00:57:02,125
+ Jika Anda tidak menyerah ... 
+
+644
+00:57:02,580 --> 00:57:04,180
+ ... kita akan membunuhnya ketika dia tiba. 
+
+645
+00:57:14,420 --> 00:57:16,480
+ Suruh Osman untuk datang dan menyerah. 
+
+646
+00:57:19,025 --> 00:57:20,025
+ Bangun! 
+
+647
+00:57:39,600 --> 00:57:40,600
+ Osman! 
+
+648
+00:57:42,360 --> 00:57:44,440
+ Jangan menyerah, Osman! 
+
+649
+00:57:46,460 --> 00:57:47,640
+ Diam! 
+
+650
+00:57:52,800 --> 00:57:54,040
+ Pak, tuan, berhenti. 
+
+651
+00:57:54,620 --> 00:57:56,180
+ Waktu saya bukan waktu marah. 
+
+652
+00:57:56,320 --> 00:57:58,020
+ Kita harus bertindak. 
+
+653
+00:57:58,020 --> 00:57:58,740
+ [Osman] 
+
+654
+00:58:00,500 --> 00:58:02,360
+ [Osman ini peringatan terakhirku untukmu!] 
+
+655
+00:58:03,540 --> 00:58:04,540
+ Bangun! 
+
+656
+00:58:05,320 --> 00:58:06,100
+ Bangun! 
+
+657
+00:58:06,685 --> 00:58:07,685
+ Kemari! 
+
+658
+00:58:07,980 --> 00:58:11,300
+ Menyerah kepada Komandan Kalanoz segera. 
+
+659
+00:58:11,760 --> 00:58:13,380
+ Jika Anda tidak menyerah ... 
+
+660
+00:58:13,765 --> 00:58:15,545
+ ... kepala Aygül yang cantik ... 
+
+661
+00:58:15,860 --> 00:58:17,820
+ ... akan pecah dari tubuhmu! 
+
+662
+00:58:18,500 --> 00:58:19,080
+ Pindah! 
+
+663
+00:58:24,135 --> 00:58:26,475
+ Jika saya tidak memasukkan kastil ini ke dalamnya ... 
+
+664
+00:58:27,185 --> 00:58:30,245
+ ... mereka seharusnya tidak memberitahuku putra Ertuğrul, Osman. 
+
+665
+00:58:31,845 --> 00:58:32,845
+ Apa yang akan kita lakukan, tuan? 
+
+666
+00:58:34,325 --> 00:58:35,975
+ Sekarang saatnya untuk mendapatkan hadiah. 
+
+667
+00:58:37,445 --> 00:58:40,005
+ Kami akan membuat tanah ini sempit untuk para pengkhianat. 
+
+668
+00:58:40,900 --> 00:58:42,300
+ Dengarkan aku dengan baik. 
+
+669
+00:59:09,000 --> 00:59:10,640
+ Istri saya Yorgo Polos ... 
+
+670
+00:59:11,220 --> 00:59:13,380
+ ... bukan hanya Tekfur dari kastil ini ... 
+
+671
+00:59:15,120 --> 00:59:17,220
+ ... adalah pelindung kita semua. 
+
+672
+00:59:19,985 --> 00:59:22,205
+ Tapi kami tidak bisa melindunginya. 
+
+673
+00:59:22,595 --> 00:59:25,715
+ Kami mengorbankannya untuk pembunuhan. 
+
+674
+00:59:26,100 --> 00:59:28,765
+ Kami akan mengatur pemakaman besok. 
+
+675
+00:59:28,920 --> 00:59:31,400
+ Apakah berita telah disampaikan kepada semua orang di wilayah ini? 
+
+676
+00:59:32,715 --> 00:59:34,455
+ Para wartawan sedang dalam perjalanan, Pak. 
+
+677
+00:59:37,820 --> 00:59:42,640
+ Ini adalah awal dari perang yang tidak akan pernah berakhir dengan Turki. 
+
+678
+00:59:44,740 --> 00:59:48,000
+ Tingkatkan ukuran di seluruh kastil. 
+
+679
+00:59:48,720 --> 00:59:52,580
+ Untuk menemukan sukarelawan yang ingin bertarung di peringkat kami ... 
+
+680
+00:59:52,940 --> 00:59:54,340
+ ... bertindak! 
+
+681
+00:59:55,260 --> 00:59:59,520
+ Sebelum saya membalas dendam suami saya dari orang-orang Turki ... 
+
+682
+00:59:59,820 --> 01:00:01,380
+ Aku bahkan tidak bisa bernapas. 
+
+683
+01:00:27,200 --> 01:00:28,900
+ Ketika kalanoz mendatangi Anda ... 
+
+684
+01:00:29,320 --> 01:00:31,600
+ ... Saya menunjuk Anda sebagai wakil saya. 
+
+685
+01:00:34,500 --> 01:00:39,880
+ Apalagi dengan keistimewaan menggunakan semua kekuatan milik saya. 
+
+686
+01:00:41,380 --> 01:00:44,180
+ Anda dapat yakin bahwa saya akan layak atas kepercayaan Anda. 
+
+687
+01:00:46,175 --> 01:00:47,745
+ Anda bisa keluar. 
+
+688
+01:01:08,380 --> 01:01:09,380
+ IR sekarang ... 
+
+689
+01:01:10,720 --> 01:01:13,520
+ ... untukku, Kalanoz. Anda ... 
+
+690
+01:01:13,900 --> 01:01:15,800
+ apa yang sedang kamu lakukan 
+
+691
+01:01:16,100 --> 01:01:19,640
+ Beraninya kau datang ke obama seperti coyote ... 
+
+692
+01:01:19,780 --> 01:01:21,020
+ ... kamu menculik putriku? 
+
+693
+01:01:22,820 --> 01:01:25,480
+ Saya putra Suleyman Shah ... 
+
+694
+01:01:25,620 --> 01:01:26,620
+ Tuan Dundar! 
+
+695
+01:01:27,155 --> 01:01:28,155
+ Anda ... 
+
+696
+01:01:28,520 --> 01:01:31,020
+ Siapa yang akan melindungiku dari amarah? 
+
+697
+01:01:31,160 --> 01:01:35,160
+ Siapa yang akan melindunginya? Apakah mereka membayar? 
+
+698
+01:01:35,900 --> 01:01:37,100
+ Demirkapilar? 
+
+699
+01:01:37,500 --> 01:01:39,800
+ Apakah tentara yang Anda tumpuk di pintu? 
+
+700
+01:01:39,800 --> 01:01:41,260
+ Siapa dia? 
+
+701
+01:01:42,760 --> 01:01:44,200
+ Bawa putriku. 
+
+702
+01:01:44,760 --> 01:01:45,560
+ Segera! 
+
+703
+01:01:45,900 --> 01:01:49,860
+ Apakah Anda mengancam saya di kandang saya, Dundar Bey? 
+
+704
+01:01:49,860 --> 01:01:51,400
+ Itu tidak ada di istanamu. 
+
+705
+01:01:51,855 --> 01:01:54,825
+ Di kastil teman saya Yorgo Polos. 
+
+706
+01:01:58,195 --> 01:02:01,015
+ Saya memperingatkan Anda, Kalanoz. 
+
+707
+01:02:01,680 --> 01:02:03,960
+ Ancaman adalah pekerjaan orang yang tidak berdaya. 
+
+708
+01:02:04,200 --> 01:02:06,400
+ George Polos, yang saya lihat sebagai ayah saya ... 
+
+709
+01:02:06,540 --> 01:02:09,560
+ ... karena kamu temanmu, sekarang di peti mati? 
+
+710
+01:02:09,560 --> 01:02:10,260
+ Komandan! 
+
+711
+01:02:11,500 --> 01:02:12,640
+ Apa yang akan kamu katakan ... 
+
+712
+01:02:13,015 --> 01:02:14,325
+ ... katakan langsung. 
+
+713
+01:02:16,055 --> 01:02:18,145
+ Kamu tidak bisa tertawa. 
+
+714
+01:02:18,545 --> 01:02:20,135
+ Osman membunuhnya. 
+
+715
+01:02:21,075 --> 01:02:23,265
+ Teman Yorgo Polos ... 
+
+716
+01:02:23,265 --> 01:02:25,835
+ ... Osman, keponakan Dundar Bey! 
+
+717
+01:02:29,700 --> 01:02:31,880
+ Ketika kami datang untuk kesepakatan ... 
+
+718
+01:02:32,160 --> 01:02:34,700
+ ... Jika Osman tidak di alun-alun ... 
+
+719
+01:02:34,820 --> 01:02:36,880
+ ... Tekfur peti mati itu ... 
+
+720
+01:02:36,920 --> 01:02:38,160
+ ... akan masuk sebelumnya. 
+
+721
+01:02:38,160 --> 01:02:40,860
+ Kita tahu bahwa Osman ada di kastil. 
+
+722
+01:02:42,565 --> 01:02:44,435
+ Jika tidak bersalah ... 
+
+723
+01:02:44,775 --> 01:02:47,335
+ ... kami ingin membuktikannya. 
+
+724
+01:02:48,145 --> 01:02:50,205
+ Jika kita memiliki kasta ... 
+
+725
+01:02:51,095 --> 01:02:53,885
+ ... kita akan melakukan kejahatan yang kita inginkan untuk Aygül. 
+
+726
+01:02:54,935 --> 01:02:55,935
+ Aygul Ini ... 
+
+727
+01:02:56,380 --> 01:02:58,740
+ ... jika rambutmu rusak ... 
+
+728
+01:02:58,880 --> 01:03:01,080
+ ... Saya membakar semua Kulucahisar. 
+
+729
+01:03:01,640 --> 01:03:02,600
+ Yakarım! 
+
+730
+01:03:05,560 --> 01:03:07,560
+ [Biarkan aku pergi! Jatuhkan] 
+
+731
+01:03:08,320 --> 01:03:09,060
+ Pindah! 
+
+732
+01:03:26,400 --> 01:03:27,580
+ Andreas! 
+
+733
+01:03:28,520 --> 01:03:29,940
+ Tinggalkan wanita itu. 
+
+734
+01:03:36,420 --> 01:03:37,420
+ Aku aygul. 
+
+735
+01:03:38,415 --> 01:03:39,465
+ Gadis bulan saya 
+
+736
+01:03:40,340 --> 01:03:43,740
+ Apakah kamu baik-baik saja? Mereka tidak membuat Anda berantakan, bukan? 
+
+737
+01:03:44,480 --> 01:03:45,680
+ Saya baik-baik saja, ayah. 
+
+738
+01:03:48,520 --> 01:03:51,980
+ Apa yang dicari hati untuk menyentuh saya dalam gen-gen ini? 
+
+739
+01:03:53,200 --> 01:03:55,000
+ Jika ada hati di ini ... 
+
+740
+01:03:55,000 --> 01:03:57,120
+ ... bukannya memfitnah Osman ... 
+
+741
+01:03:57,455 --> 01:04:00,645
+ mereka akan menemukan pembunuh Tekfur mereka. 
+
+742
+01:04:01,415 --> 01:04:03,195
+ Saya mempercayai Osman. 
+
+743
+01:04:04,485 --> 01:04:06,115
+ Suami saya juga percaya. 
+
+744
+01:04:07,120 --> 01:04:10,580
+ Dia memberinya hak istimewa yang tidak pernah dia berikan kepada siapa pun. 
+
+745
+01:04:12,380 --> 01:04:14,980
+ Pembunuh suamiku adalah Osman. 
+
+746
+01:04:15,080 --> 01:04:16,080
+ Aygul. 
+
+747
+01:04:18,340 --> 01:04:20,020
+ Ada saksi untuk itu. 
+
+748
+01:04:21,825 --> 01:04:22,855
+ Osman! 
+
+749
+01:04:23,495 --> 01:04:25,465
+ Osman tanpa menyerah ... 
+
+750
+01:04:26,585 --> 01:04:29,625
+ ... baik Anda maupun ayah atau pria aprikot Anda ... 
+
+751
+01:04:29,840 --> 01:04:32,140
+ ... tidak bisa selamat dari kastil ini! 
+
+752
+01:04:37,520 --> 01:04:38,520
+ Kalanoz! 
+
+753
+01:04:38,520 --> 01:04:39,580
+ Perintah, tuan. 
+
+754
+01:04:39,580 --> 01:04:41,000
+ Sampai Osman datang ... 
+
+755
+01:04:41,780 --> 01:04:43,740
+ ... menempatkan mereka semua di penjara bawah tanah. 
+
+756
+01:04:45,865 --> 01:04:46,915
+ Bizantium ... 
+
+757
+01:04:47,305 --> 01:04:49,335
+ ... Anda menunjukkan wajah jelek Anda, Sofia. 
+
+758
+01:04:50,235 --> 01:04:51,235
+ Anda menunjukkan. 
+
+759
+01:04:51,455 --> 01:04:53,075
+ Osman membuat alasan dan ... 
+
+760
+01:04:53,160 --> 01:04:56,320
+ ... Anda mencoba untuk melanggar perjanjian yang kami buat dengan Tekfur? 
+
+761
+01:04:56,980 --> 01:04:58,520
+ Osman tidak ada di kastil ini! 
+
+762
+01:04:58,920 --> 01:05:00,460
+ Kita semua tahu itu. 
+
+763
+01:05:01,645 --> 01:05:02,665
+ Saya menyadari bahwa ... 
+
+764
+01:05:03,200 --> 01:05:04,980
+ ... niatmu bukan Osman ... 
+
+765
+01:05:05,680 --> 01:05:06,680
+ ... saya. 
+
+766
+01:05:09,360 --> 01:05:10,360
+ Kami ... 
+
+767
+01:05:11,605 --> 01:05:13,355
+ ... jika rambut kita rusak ... 
+
+768
+01:05:14,045 --> 01:05:15,875
+ ... semua oba Turki ... 
+
+769
+01:05:16,555 --> 01:05:18,945
+ ... akan runtuh bagimu seperti mimpi buruk. 
+
+770
+01:05:19,185 --> 01:05:20,185
+ Anda tahu. 
+
+771
+01:05:21,945 --> 01:05:25,135
+ Sama seperti Anda untuk sehelai rambut putri Anda ... 
+
+772
+01:05:25,135 --> 01:05:27,415
+ ... Jika Anda membakar semua Kulucahisar ... 
+
+773
+01:05:28,060 --> 01:05:30,640
+ ... di Tekfur setetes darah ... 
+
+774
+01:05:30,700 --> 01:05:32,620
+ ... Saya menenggelamkan semua oba Turki. 
+
+775
+01:05:34,680 --> 01:05:35,860
+ Bawa mereka! 
+
+776
+01:05:35,860 --> 01:05:36,920
+ Dapatkan mereka! 
+
+777
+01:05:37,240 --> 01:05:38,200
+ Semua itu! 
+
+778
+01:06:02,985 --> 01:06:03,985
+ Osman. 
+
+779
+01:06:36,625 --> 01:06:39,295
+ Bismillahirrahmanirrahim. 
+
+780
+01:06:40,595 --> 01:06:42,275
+ Dapatkan kesembuhan. 
+
+781
+01:06:45,720 --> 01:06:49,240
+ Buat tuanku menang melawan musuh. 
+
+782
+01:06:49,240 --> 01:06:50,320
+ Amin. 
+
+783
+01:06:51,240 --> 01:06:53,440
+ Untuk semua gadis di Oba ... 
+
+784
+01:06:53,660 --> 01:06:56,080
+ ... Anda akan menginformasikan semua Alpen. 
+
+785
+01:06:56,280 --> 01:06:57,980
+ Cenk drum run. 
+
+786
+01:06:58,280 --> 01:07:02,020
+ Mereka akan siap! Kita bisa bertindak kapan saja. 
+
+787
+01:07:03,355 --> 01:07:04,725
+ Zühre Hatun. 
+
+788
+01:07:05,145 --> 01:07:07,095
+ Apakah kita akan bertindak? 
+
+789
+01:07:09,475 --> 01:07:11,345
+ Kami adalah cewek Turki. 
+
+790
+01:07:13,000 --> 01:07:16,500
+ Profesi kami, yang disebut cenk, adalah profesi. 
+
+791
+01:07:22,320 --> 01:07:23,880
+ Anda sedang mengaum. 
+
+792
+01:07:24,375 --> 01:07:27,105
+ Mari kita bicara sekarang, Tn. Dundar. 
+
+793
+01:07:27,685 --> 01:07:30,515
+ Anda tidak akan percaya Osman ada di kastil. 
+
+794
+01:07:30,795 --> 01:07:32,005
+ Lihat di sini 
+
+795
+01:07:32,525 --> 01:07:35,095
+ Di depan kita sebagai prajurit. 
+
+796
+01:07:37,375 --> 01:07:39,465
+ Saya mendapatkan apa yang saya inginkan. 
+
+797
+01:07:39,840 --> 01:07:42,740
+ Saya berhasil membawa Osman berdiri. 
+
+798
+01:07:42,980 --> 01:07:45,400
+ Sofia adalah orang yang datang ke kakimu. 
+
+799
+01:07:47,160 --> 01:07:49,900
+ Jatuhkan mereka! Kalau tidak, semua orang akan mati. 
+
+800
+01:07:51,820 --> 01:07:52,820
+ Suami saya adalah ... 
+
+801
+01:07:54,100 --> 01:07:56,640
+ ... Anda membunuh semua prajurit saya. 
+
+802
+01:07:56,900 --> 01:07:58,200
+ Jatuhkan Andreas! 
+
+803
+01:08:02,295 --> 01:08:05,035
+ Apakah kamu tidak mendapatkan cukup darahmu, Osman? 
+
+804
+01:08:06,005 --> 01:08:08,255
+ Saya menepati janji saya. 
+
+805
+01:08:09,835 --> 01:08:11,715
+ Tanpa mengambil Osman keponakanku ... 
+
+806
+01:08:12,385 --> 01:08:13,695
+ Saya tidak ke mana-mana. 
+
+807
+01:08:14,280 --> 01:08:15,520
+ Dapatkan berita Anda. 
+
+808
+01:08:15,800 --> 01:08:18,260
+ Nyaman untuk Tn. Dundar. 
+
+809
+01:08:19,145 --> 01:08:22,535
+ Osman juga di antara wanita Anda ... 
+
+810
+01:08:23,045 --> 01:08:25,655
+ ... akan diadili di pengadilan yang adil. 
+
+811
+01:08:26,245 --> 01:08:28,935
+ Tuan-tuan Kayı juga akan berada di pengadilan ini. 
+
+812
+01:08:29,825 --> 01:08:31,985
+ Kami tidak menumpahkan darah ... 
+
+813
+01:08:32,695 --> 01:08:34,935
+ ... kita mengejar kebenaran. 
+
+814
+01:08:48,125 --> 01:08:49,125
+ Sofia ... 
+
+815
+01:08:50,460 --> 01:08:52,440
+ ... benar, Dundar Bey. 
+
+816
+01:08:58,720 --> 01:08:59,720
+ Kami juga ... 
+
+817
+01:09:00,160 --> 01:09:01,240
+ ... insiden Kami ... 
+
+818
+01:09:01,825 --> 01:09:03,735
+ ... kami melakukan hal yang sama. 
+
+819
+01:09:05,515 --> 01:09:06,515
+ Tuan Bamsi! 
+
+820
+01:09:08,615 --> 01:09:11,315
+ Apakah Anda mendengar telinga Anda keluar dari mulut Anda? 
+
+821
+01:09:12,425 --> 01:09:14,435
+ Kemana kita akan pergi tanpa Osman? 
+
+822
+01:09:27,105 --> 01:09:28,775
+ Hatiku adalah darah. 
+
+823
+01:09:31,885 --> 01:09:33,675
+ Demi kebaikan kita semua ... 
+
+824
+01:09:34,005 --> 01:09:36,355
+ ... pengadilan yang adil harus dibentuk. 
+
+825
+01:09:59,485 --> 01:10:00,485
+ Tentara! 
+
+826
+01:10:01,335 --> 01:10:02,655
+ Turunkan tombak. 
+
+827
+01:10:19,795 --> 01:10:20,935
+ Osman. 
+
+828
+01:10:24,595 --> 01:10:25,595
+ Emmi. 
+
+829
+01:10:27,995 --> 01:10:28,995
+ Go. 
+
+830
+01:10:32,245 --> 01:10:33,995
+ Bamsı Bey mengatakan yang sebenarnya. 
+
+831
+01:10:48,155 --> 01:10:51,115
+ Tentara! Berikan senjata dari Dundar Bey. 
+
+832
+01:10:51,605 --> 01:10:54,585
+ Menemani kamu sampai kamu meninggalkan kastil. 
+
+833
+01:10:55,280 --> 01:10:57,000
+ Bawa Osman ke penjara bawah tanah. 
+
+834
+01:11:32,400 --> 01:11:35,700
+ Osman tertangkap! Dia adalah benteng. Cepatlah! 
+
+835
+01:11:38,795 --> 01:11:40,185
+ Cepat, cepat. 
+
+836
+01:11:40,865 --> 01:11:41,865
+ Ini akan berakhir. 
+
+837
+01:11:42,060 --> 01:11:43,440
+ Biarkan mata Anda terbuka. 
+
+838
+01:12:12,480 --> 01:12:16,820
+ Osman Bey, kamu tidak bisa melindungi saudara kandungmu! 
+
+839
+01:12:17,000 --> 01:12:19,140
+ Bagaimana Anda membiarkannya mati? 
+
+840
+01:12:19,360 --> 01:12:21,360
+ Bagaimana Anda membiarkannya? 
+
+841
+01:12:23,160 --> 01:12:27,960
+ Jawab pertanyaanku. Saya tidak peduli jika Anda menyelamatkan hidup saya, saya akan mengambil kepala Anda. 
+
+842
+01:12:28,560 --> 01:12:30,100
+ Apakah Anda membunuh Tekfur? 
+
+843
+01:12:31,555 --> 01:12:33,815
+ Apa Tekfur? Apa yang harus dibunuh? 
+
+844
+01:13:05,355 --> 01:13:06,955
+ Apakah Anda membunuh Tekfur? 
+
+845
+01:13:13,040 --> 01:13:15,800
+ Tidakkah seharusnya saya mengajukan pertanyaan ini kepada Anda? 
+
+846
+01:13:16,040 --> 01:13:18,520
+ Sementara saya menyelamatkan hidup George Polos ... 
+
+847
+01:13:19,925 --> 01:13:22,665
+ ... sebagai komandan kastil yang canggung ... 
+
+848
+01:13:23,855 --> 01:13:25,285
+ ... Anda berkeliaran di sekitar. 
+
+849
+01:13:28,335 --> 01:13:30,765
+ Upaya pembunuhan juga merupakan permainan, bukan? 
+
+850
+01:13:33,005 --> 01:13:36,035
+ Anda orang Turki di belakang ini. 
+
+851
+01:13:37,035 --> 01:13:38,155
+ Katakan sekarang ... 
+
+852
+01:13:39,180 --> 01:13:40,980
+ ... berpakaian seperti tentara ... 
+
+853
+01:13:41,020 --> 01:13:43,320
+ Apa yang kamu lakukan di kamar Tekfur? 
+
+854
+01:13:43,780 --> 01:13:47,760
+ Saya memasuki kastil untuk mencari mereka yang ingin membunuh daya serap saya dengan Tekfur. 
+
+855
+01:13:48,460 --> 01:13:50,240
+ Tapi saya terlambat. 
+
+856
+01:13:51,500 --> 01:13:52,340
+ Kedua ... 
+
+857
+01:13:53,720 --> 01:13:55,200
+ Mengapa saya harus membunuh Tekfur? 
+
+858
+01:13:56,895 --> 01:13:58,625
+ Dia menerima kesepakatan itu. 
+
+859
+01:14:00,495 --> 01:14:03,755
+ Anda adalah satu-satunya yang tidak menerima kesepakatan! 
+
+860
+01:14:06,995 --> 01:14:08,825
+ Jika tersangka dicari ... 
+
+861
+01:14:09,580 --> 01:14:11,560
+ ... itu kamu juga, Kalanoz. 
+
+862
+01:14:11,700 --> 01:14:13,760
+ Mengapa Anda membunuh Tekfur kami? 
+
+863
+01:14:13,800 --> 01:14:17,180
+ Sementara pengkhianatan dan fitnah menyebar dari istana Anda adalah komandan ... 
+
+864
+01:14:17,835 --> 01:14:19,085
+ ... maukah kamu menyalahkan aku? 
+
+865
+01:14:19,695 --> 01:14:22,525
+ Ketika Anda melarikan diri dari kamar tempat Anda membunuh Tekfur dan melemparkannya ... 
+
+866
+01:14:22,655 --> 01:14:24,125
+ prajuritku melihatmu. 
+
+867
+01:14:26,005 --> 01:14:28,015
+ Anda salah, Kalanoz. 
+
+868
+01:14:28,325 --> 01:14:30,365
+ Tekfur yang malang jatuh di hadapanku. 
+
+869
+01:14:32,495 --> 01:14:35,985
+ Ketika saya melihat ke atas, saya melihat dua bayangan. 
+
+870
+01:14:37,540 --> 01:14:38,540
+ Bayangan ya? 
+
+871
+01:14:41,840 --> 01:14:43,340
+ Itu berarti mereka lebih dari satu. 
+
+872
+01:14:43,640 --> 01:14:44,520
+ Ya. 
+
+873
+01:14:47,460 --> 01:14:48,820
+ Tekfur terkejut. 
+
+874
+01:14:50,040 --> 01:14:52,220
+ Karena mereka bisa masuk sebanyak ini ... 
+
+875
+01:14:54,000 --> 01:14:55,700
+ ... pasti ada seseorang yang dia kenal. 
+
+876
+01:14:56,645 --> 01:14:58,005
+ Bagaimana kamu tahu 
+
+877
+01:15:00,595 --> 01:15:02,315
+ Karena dia dicekik. 
+
+878
+01:15:03,055 --> 01:15:05,275
+ Saya sudah cukup banyak mendengar omong kosong! 
+
+879
+01:15:11,855 --> 01:15:14,175
+ Anda tahu apa yang saya katakan benar. 
+
+880
+01:15:17,655 --> 01:15:19,275
+ Saya bukan pembunuhnya. 
+
+881
+01:15:21,080 --> 01:15:23,520
+ Bagaimanapun, semua yang ada di pengadilan ... 
+
+882
+01:15:24,160 --> 01:15:25,220
+ ... akan terbuka. 
+
+883
+01:15:26,545 --> 01:15:28,585
+ Dan saya dengan senang hati ... 
+
+884
+01:15:29,015 --> 01:15:31,065
+ ... Aku akan merenggut kepalamu dari batang tubuh. 
+
+885
+01:15:31,880 --> 01:15:33,380
+ Osman Bey. 
+
+886
+01:15:56,625 --> 01:15:58,855
+ Saya tidak tahu keputusan apa yang datang dari pengadilan. 
+
+887
+01:16:00,655 --> 01:16:01,655
+ Namun ... 
+
+888
+01:16:03,355 --> 01:16:04,855
+ pastikan ... 
+
+889
+01:16:06,795 --> 01:16:08,245
+ Saya akan menemukan para pembunuh. 
+
+890
+01:16:13,335 --> 01:16:14,385
+ Mati ... 
+
+891
+01:16:15,600 --> 01:16:17,620
+ ... tidak dapat menemukan apa pun. 
+
+892
+01:16:20,360 --> 01:16:21,360
+ Osman. 
+
+893
+01:16:27,185 --> 01:16:29,855
+ Kunci pintunya dan jangan biarkan siapa pun masuk! 
+
+894
+01:17:17,385 --> 01:17:19,075
+ Anda memanggil saya, tuan. 
+
+895
+01:17:23,560 --> 01:17:25,380
+ Anda berpikir sangat baik. 
+
+896
+01:17:25,700 --> 01:17:27,860
+ Osman hanya akan berbicara seperti ini. 
+
+897
+01:17:28,340 --> 01:17:29,840
+ Ayo kupas kuku dan gigimu. 
+
+898
+01:17:30,720 --> 01:17:32,900
+ Semoga Anda merasakan sakitnya sampai meresap. 
+
+899
+01:17:33,440 --> 01:17:37,280
+ Saya tidak berpikir kita bisa membuat Osman disiksa. 
+
+900
+01:17:37,820 --> 01:17:40,180
+ Ini tidak punya pilihan, tuan. 
+
+901
+01:17:40,180 --> 01:17:40,940
+ Ya. 
+
+902
+01:17:42,900 --> 01:17:46,360
+ Jika Osman berhasil mendapatkan kepercayaan suci, 
+
+903
+01:17:47,000 --> 01:17:50,660
+ ... bekerja sama dengan musuh terbesar kita. 
+
+904
+01:17:52,440 --> 01:17:55,800
+ Seseorang tidak akan pernah menyerah pada rasa sakit, Helen. 
+
+905
+01:17:56,160 --> 01:17:59,900
+ Jika Osman pergi ke pengadilan, kematian Tekfur menjadi curiga. 
+
+906
+01:18:00,140 --> 01:18:00,920
+ ... Pak. 
+
+907
+01:18:01,460 --> 01:18:02,960
+ Kami tidak bisa membiarkan ini. 
+
+908
+01:18:03,020 --> 01:18:04,920
+ Osman tidak akan pergi ke pengadilan, Helen. 
+
+909
+01:18:05,465 --> 01:18:07,245
+ Dia akan melarikan diri dari penjara bawah tanah. 
+
+910
+01:18:08,805 --> 01:18:11,315
+ Apakah kita akan menculiknya dari penjara bawah tanah? 
+
+911
+01:18:12,655 --> 01:18:15,155
+ Tidak, dia akan lari. 
+
+912
+01:18:15,675 --> 01:18:18,995
+ Tidak menyerah tanpa mengambil tindakan pencegahan ... 
+
+913
+01:18:19,105 --> 01:18:20,855
+ Osman pintar. 
+
+914
+01:18:24,115 --> 01:18:26,555
+ Apalagi dia tidak sendirian di kastil. 
+
+915
+01:18:27,065 --> 01:18:30,015
+ Tidak mungkin mengambil harta itu sendirian. 
+
+916
+01:18:31,025 --> 01:18:33,965
+ Apakah Anda pikir Alpen telah bocor ke kastil? 
+
+917
+01:18:35,885 --> 01:18:37,865
+ Tangkap semuanya sekaligus. 
+
+918
+01:18:38,740 --> 01:18:42,760
+ Hal paling cerdas yang bisa kita lakukan untuk mendapatkan kepercayaan suci ... 
+
+919
+01:18:43,240 --> 01:18:46,540
+ ... akan membiarkannya melarikan diri dari penjara bawah tanah. 
+
+920
+01:18:47,995 --> 01:18:48,995
+ Sekarang ... 
+
+921
+01:18:50,840 --> 01:18:53,440
+ ... hubungi Teokles pemburu yang paling tepercaya. 
+
+922
+01:18:53,660 --> 01:18:55,560
+ Pesanlah dia dan anak buahnya. 
+
+923
+01:18:55,560 --> 01:18:57,060
+ Ini sangat berbahaya, tuan. 
+
+924
+01:18:57,220 --> 01:19:02,400
+ Jika Osman Teokles menyingkirkannya, kita tidak akan pernah bisa mencapai kepercayaan suci. 
+
+925
+01:19:02,560 --> 01:19:06,640
+ Daripada murka Tuan Yannis ... 
+
+926
+01:19:07,300 --> 01:19:09,720
+ Kami akan memainkan game berbahaya ini, Helen. 
+
+927
+01:19:10,625 --> 01:19:11,915
+ Lakukan apa yang saya katakan sekarang! 
+
+928
+01:19:12,505 --> 01:19:14,075
+ Panggil Teokles! 
+
+929
+01:19:37,045 --> 01:19:39,105
+ Letakkan barel di sebelah yang lain. 
+
+930
+01:19:43,745 --> 01:19:46,985
+ Makanan terakhir dari pembunuh Tekfur adalah sup babi. 
+
+931
+01:19:47,580 --> 01:19:49,580
+ Di sini saya sangat tertawa. 
+
+932
+01:19:51,020 --> 01:19:52,300
+ Bawa mangkuk sup. 
+
+933
+01:19:59,560 --> 01:20:00,660
+ Sedikit lagi. 
+
+934
+01:20:03,620 --> 01:20:04,900
+ Taruh daging sedikit lagi. 
+
+935
+01:20:04,900 --> 01:20:06,540
+ Sebelum Anda hamil, Anda akan baik-baik saja. 
+
+936
+01:20:15,505 --> 01:20:16,875
+ Apa yang kamu lihat 
+
+937
+01:20:18,155 --> 01:20:20,855
+ Bukankah dia seorang Muslim? Dia tidak minum sup itu. 
+
+938
+01:20:22,625 --> 01:20:24,575
+ Kesenangan juga ada di sana. 
+
+939
+01:20:24,780 --> 01:20:26,180
+ Apa yang Anda terlibat dalam 
+
+940
+01:20:26,180 --> 01:20:28,020
+ Tidak ada jalan keluar dari neraka baginya. 
+
+941
+01:20:28,640 --> 01:20:30,400
+ Ke mana lagi orang Turki bisa pergi? 
+
+942
+01:20:51,555 --> 01:20:53,275
+ Ayo, kamu juga. 
+
+943
+01:21:11,780 --> 01:21:12,780
+ Exit. 
+
+944
+01:21:44,540 --> 01:21:46,180
+ Teokles. 
+
+945
+01:21:46,575 --> 01:21:47,895
+ Anda memanggil saya Helen. 
+
+946
+01:21:57,455 --> 01:21:58,975
+ Putri Sofia ... 
+
+947
+01:21:58,975 --> 01:22:02,305
+ Saya ingat hari ia mengukir satu mata dengan jarinya. 
+
+948
+01:22:06,325 --> 01:22:09,045
+ Jika Anda ingin menyimpan mata kedua Anda ... 
+
+949
+01:22:09,945 --> 01:22:13,355
+ ... dengarkan baik-baik apa yang saya katakan Teokles. 
+
+950
+01:22:29,955 --> 01:22:31,055
+ Dalam pikiran ... 
+
+951
+01:22:31,515 --> 01:22:34,075
+ ... seekor kuda tanpa kehormatan beech ... 
+
+952
+01:22:34,865 --> 01:22:37,065
+ ... apa yang kamu butuhkan dari awal? 
+
+953
+01:22:55,120 --> 01:22:58,840
+ Demi kehormatan, pusat tidak digunakan untuk ... 
+
+954
+01:22:59,380 --> 01:23:00,760
+ ... untuk apa ini? 
+
+955
+01:23:03,095 --> 01:23:04,895
+ Ini tidak perlu untuk Anda. 
+
+956
+01:23:15,745 --> 01:23:16,995
+ Anda ... 
+
+957
+01:23:17,235 --> 01:23:20,065
+ ... tunangan Aybars martir kita ... 
+
+958
+01:23:20,685 --> 01:23:21,695
+ ... dan ... 
+
+959
+01:23:22,205 --> 01:23:24,455
+ ... kami mempercayakan adikku Aygül. 
+
+960
+01:23:26,195 --> 01:23:27,835
+ Apa yang kamu lakukan 
+
+961
+01:23:30,420 --> 01:23:31,480
+ Apa yang kamu lakukan 
+
+962
+01:23:31,820 --> 01:23:32,480
+ Katakan! 
+
+963
+01:23:36,400 --> 01:23:39,720
+ Anda tidak bisa mengklaim keselamatan. 
+
+964
+01:23:44,755 --> 01:23:47,035
+ Bahkan jiwaku tidak mendengar ketika saudara perempuanku diculik. 
+
+965
+01:23:49,580 --> 01:23:54,060
+ Kayi alpine berarti elang yang didirikan pada jam tangan. 
+
+966
+01:23:54,400 --> 01:23:57,600
+ Itu berarti seorang pejuang yang mengambil kematian untuk menghormatinya. 
+
+967
+01:24:01,280 --> 01:24:03,040
+ Siapa yang tidak bisa menjaga keamanan ... 
+
+968
+01:24:03,280 --> 01:24:05,080
+ ... yang tidak bisa menjaga kehormatannya ... 
+
+969
+01:24:05,180 --> 01:24:07,700
+ tidak layak menjadi bodoh, atau pusat! 
+
+970
+01:24:09,575 --> 01:24:10,735
+ Namun ... 
+
+971
+01:24:11,480 --> 01:24:13,140
+ ... Aku akan memberimu hakmu. 
+
+972
+01:24:13,540 --> 01:24:15,420
+ Kamu tidak pernah khawatir 
+
+973
+01:24:22,915 --> 01:24:24,305
+ Nah, Dundar Bey. 
+
+974
+01:24:24,735 --> 01:24:27,875
+ Anda memberikan hidup Anda, Anda tidak akan memberikan Osman kepada mereka. 
+
+975
+01:24:27,935 --> 01:24:29,335
+ Kenapa kamu berhenti? 
+
+976
+01:24:29,655 --> 01:24:32,005
+ Elang tidak muat di dalam kandang, cewek. 
+
+977
+01:24:32,960 --> 01:24:34,400
+ Ini tidak cocok. 
+
+978
+01:24:39,080 --> 01:24:39,980
+ Ea ... 
+
+979
+01:24:40,300 --> 01:24:42,120
+ ... katakan padaku Bamsı. 
+
+980
+01:24:42,855 --> 01:24:44,455
+ Terima kasih Dündar Bey. 
+
+981
+01:24:46,605 --> 01:24:49,825
+ Zühre Hatun menjadi Osman saya. 
+
+982
+01:24:50,065 --> 01:24:52,365
+ Kami tidak disini. 
+
+983
+01:25:20,505 --> 01:25:23,925
+ Saya tidak berbicara di tempat karena dia sedang bermain. 
+
+984
+01:25:29,815 --> 01:25:30,935
+ Namun ... 
+
+985
+01:25:31,575 --> 01:25:34,105
+ ... Saya akan mengambil tindakan pencegahan terlepas dari segalanya. 
+
+986
+01:25:34,105 --> 01:25:35,105
+ Tuan Bamsi! 
+
+987
+01:25:35,495 --> 01:25:38,975
+ Apakah kita akan berterima kasih kepada Osman setelah semua galeri itu? 
+
+988
+01:25:40,100 --> 01:25:42,800
+ Bukan hanya hidup Anda sendiri, tetapi ... 
+
+989
+01:25:42,820 --> 01:25:46,280
+ ... membahayakan hidup ayahku, Samsa Bey, saudara perempuanku, semuanya. 
+
+990
+01:25:46,400 --> 01:25:48,440
+ Berapa lama lagi? 
+
+991
+01:25:48,980 --> 01:25:51,260
+ Bagaimana jika dia dinyatakan bersalah di pengadilan? 
+
+992
+01:25:52,835 --> 01:25:54,635
+ Bagaimana jika dia benar-benar membunuh Tekfur? 
+
+993
+01:25:56,455 --> 01:25:58,635
+ Saya tidak tahu itu. 
+
+994
+01:26:01,225 --> 01:26:04,045
+ Saya ingin bertanya kepada Osman tentang semua ini. 
+
+995
+01:26:04,115 --> 01:26:05,115
+ Karena ... 
+
+996
+01:26:05,355 --> 01:26:07,845
+ ... Jika pembunuhan itu menimpa Osman ... 
+
+997
+01:26:07,845 --> 01:26:10,560
+ ... Sultan Seljuk meminta kami untuk mempertanggungjawabkan semua ini. 
+
+998
+01:26:10,560 --> 01:26:11,460
+ Saudara cukup! 
+
+999
+01:26:11,460 --> 01:26:12,220
+ Cukup! 
+
+1000
+01:26:12,220 --> 01:26:14,720
+ Anda tidak bisa memasukkan Osman di oba besar. 
+
+1001
+01:26:15,100 --> 01:26:16,000
+ Adikku, katamu ... 
+
+1002
+01:26:16,180 --> 01:26:17,520
+ ... kata ayah saya 
+
+1003
+01:26:17,640 --> 01:26:21,260
+ ... Osman mengorbankan dirinya untuk ayahmu untuk apa yang kamu katakan! 
+
+1004
+01:26:21,260 --> 01:26:22,000
+ Aygul! 
+
+1005
+01:26:22,060 --> 01:26:22,840
+ Batur! 
+
+1006
+01:26:51,720 --> 01:26:52,980
+ Batur benar. 
+
+1007
+01:26:54,485 --> 01:26:57,045
+ Jika Osman dinyatakan bersalah di pengadilan ... 
+
+1008
+01:26:59,285 --> 01:27:02,395
+ ... Byzantium tidak mengejar bisnis ini. 
+
+1009
+01:27:03,040 --> 01:27:05,200
+ Apa yang akan dia lakukan jika dia tidak membiarkan Dündar? 
+
+1010
+01:27:05,460 --> 01:27:08,860
+ Kapan kita takut dengan Bizantium dan sekarang mari kita takut? 
+
+1011
+01:27:09,195 --> 01:27:12,315
+ Ini bukan masalah Byzantium, Bamsı Bey. 
+
+1012
+01:27:13,565 --> 01:27:15,655
+ Jika Bizantium masuk ke bisnis ini ... 
+
+1013
+01:27:16,765 --> 01:27:18,455
+ ... bangsa Mongol akan masuk. 
+
+1014
+01:27:20,560 --> 01:27:21,660
+ Secepat mungkin ... 
+
+1015
+01:27:22,120 --> 01:27:24,180
+ Ayahku harus beralih ke oba. 
+
+1016
+01:27:25,760 --> 01:27:26,760
+ Mudah-mudahan ... 
+
+1017
+01:27:27,505 --> 01:27:29,665
+ ... ia juga menandatangani dengan sultan di Konya ... 
+
+1018
+01:27:30,140 --> 01:27:31,680
+ ... masalah ini terpecahkan. 
+
+1019
+01:27:31,800 --> 01:27:32,800
+ Mudah-mudahan. 
+
+1020
+01:29:33,145 --> 01:29:35,495
+ Apa yang terjadi Apakah kamu tidak menyukainya? 
+
+1021
+01:29:35,535 --> 01:29:38,085
+ Ini adalah makanan terakhir Osman Bey. 
+
+1022
+01:29:38,205 --> 01:29:40,735
+ Selamat menikmati. Babi di dalamnya ... 
+
+1023
+01:29:40,740 --> 01:29:42,940
+ ... akan membawamu ke surga di punggungmu. 
+
+1024
+01:30:21,980 --> 01:30:22,980
+ Anjing genetika! 
+
+1025
+01:32:28,255 --> 01:32:30,305
+ Siapa yang terakhir memasuki ruang bawah tanah? 
+
+1026
+01:32:30,835 --> 01:32:32,885
+ Siapa yang memasuki ruang bawah tanah ini terakhir? 
+
+1027
+01:32:33,280 --> 01:32:34,280
+ Helen. 
+
+1028
+01:32:36,600 --> 01:32:37,400
+ Helen. 
+
+1029
+01:32:37,920 --> 01:32:38,920
+ Helen. 
+
+1030
+01:32:39,500 --> 01:32:40,280
+ Helen. 
+
+1031
+01:32:43,380 --> 01:32:46,100
+ Tutup pintunya! Tangkap Osman! 
+
+1032
+01:32:46,240 --> 01:32:48,140
+ Kastil ini tidak akan hidup! 
+
+1033
+01:32:53,340 --> 01:32:54,340
+ Sofia ... 
+
+1034
+01:33:22,440 --> 01:33:23,560
+ Bumi hitam. 
+
+1035
+01:33:27,545 --> 01:33:28,545
+ Katakan itu padaku. 
+
+1036
+01:33:29,740 --> 01:33:31,060
+ Panggil aku bumi hitam. 
+
+1037
+01:33:32,080 --> 01:33:33,980
+ Apakah berani di dada Anda nyaman? 
+
+1038
+01:33:37,375 --> 01:33:38,695
+ Ayahnya ... 
+
+1039
+01:33:40,400 --> 01:33:42,600
+ ... apakah itu dari Irak? 
+
+1040
+01:33:51,500 --> 01:33:52,960
+ Kadir Mawla ... 
+
+1041
+01:33:54,435 --> 01:33:57,455
+ ... dia seharusnya tidak membutuhkannya. 
+
+1042
+01:33:58,580 --> 01:33:59,860
+ Ibumu dengan rambut putih .. 
+
+1043
+01:34:00,420 --> 01:34:02,280
+ Biarkan tempat itu menjadi surga. 
+
+1044
+01:34:04,100 --> 01:34:05,100
+ Tuhanku ... 
+
+1045
+01:34:06,220 --> 01:34:08,040
+ ... lebah seharusnya tidak memisahkannya dari iman. 
+
+1046
+01:34:10,620 --> 01:34:12,220
+ Mereka yang mengatakan amin ... 
+
+1047
+01:34:13,000 --> 01:34:15,100
+ ... wajahmu tersayang. 
+
+1048
+01:34:17,600 --> 01:34:20,340
+ Semoga harapan Allah dihentikan. 
+
+1049
+01:34:23,460 --> 01:34:24,860
+ dosa-dosa saya ... 
+
+1050
+01:34:26,940 --> 01:34:31,400
+ ... nama air muka Muhammad yang indah ... 
+
+1051
+01:34:32,720 --> 01:34:33,700
+ ... maafkan. 
+
+1052
+01:34:58,640 --> 01:34:59,960
+ Aku Aybars. 
+
+1053
+01:35:01,840 --> 01:35:05,520
+ Anda tidak pernah khawatir, Aybars. 
+
+1054
+01:35:07,565 --> 01:35:08,565
+ Saya Utsman ... 
+
+1055
+01:35:09,440 --> 01:35:12,000
+ ... tidak akan menaruh darahmu di lantai. 
+
+1056
+01:35:14,040 --> 01:35:15,040
+ Saya Utsman ... 
+
+1057
+01:35:16,500 --> 01:35:19,520
+ akan membalas dendam Anda. 
+
+1058
+01:35:53,960 --> 01:35:57,740
+ Jika raja yang Anda buat adalah raja, saudara-saudara tidak akan membuat serigala. 
+
+1059
+01:36:05,640 --> 01:36:06,840
+ IR sekarang ... 
+
+1060
+01:36:07,655 --> 01:36:10,385
+ ... kita selangkah lebih dekat dengan saudara-saudara yang sebenarnya. 
+
+1061
+01:36:10,900 --> 01:36:13,100
+ Seluruh simpul akan terurai di biarawati. 
+
+1062
+01:36:13,340 --> 01:36:13,880
+ Terima kasih. 
+
+1063
+01:36:13,880 --> 01:36:14,880
+ Terima kasih tuan 
+
+1064
+01:36:15,360 --> 01:36:16,100
+ Semoga pak. 
+
+1065
+01:36:26,780 --> 01:36:27,980
+ Lindungi Osman Bey! 
+
+1066
+01:36:45,140 --> 01:36:46,260
+ Konuralp! 
+
+1067
+01:36:54,140 --> 01:36:56,040
+ Halo, tuan. 
+
+1068
+01:36:56,040 --> 01:36:56,700
+ Dan hai halo. 
+
+1069
+01:36:56,840 --> 01:36:57,620
+ Dan hai halo. 
+
+1070
+01:36:57,680 --> 01:36:58,360
+ Dan hai halo. 
+
+1071
+01:37:07,880 --> 01:37:11,215
+ Saya tahu Anda berada di kastil, saya akan datang untuk melihat Anda. 
+
+1072
+01:37:11,215 --> 01:37:13,155
+ Saya tahu kontes Anda, Konuralp. 
+
+1073
+01:37:14,175 --> 01:37:15,915
+ Jika saya katakan di depan kita ... 
+
+1074
+01:37:16,405 --> 01:37:17,795
+ ... keluar. 
+
+1075
+01:37:20,140 --> 01:37:21,440
+ Datanglah ke meja kami. 
+
+1076
+01:37:21,780 --> 01:37:23,000
+ Dengan kepalaku, tuan. 
+
+1077
+01:37:32,980 --> 01:37:34,460
+ Apakah Anda menangani tugas itu? 
+
+1078
+01:37:34,860 --> 01:37:36,080
+ Ups, tuan. 
+
+1079
+01:37:46,580 --> 01:37:50,440
+ Struktur khusus semua kastil di Bitinya telah dihapus satu per satu, tuan. 
+
+1080
+01:37:51,000 --> 01:37:52,120
+ O sengsara. 
+
+1081
+01:37:53,375 --> 01:37:55,565
+ Jarak antara dinding ... 
+
+1082
+01:37:55,575 --> 01:37:57,185
+ ... jumlah tentara yang menjaga ... 
+
+1083
+01:37:57,725 --> 01:37:59,255
+ ... ketinggian dinding ... 
+
+1084
+01:37:59,725 --> 01:38:00,975
+ ... kita memiliki semuanya. 
+
+1085
+01:38:02,140 --> 01:38:03,720
+ Bahkan Nikea dan Pursa. 
+
+1086
+01:38:04,000 --> 01:38:05,740
+ Aku bangga padamu, Konuralp. 
+
+1087
+01:38:07,200 --> 01:38:08,200
+ Terima kasih tuan 
+
+1088
+01:38:08,465 --> 01:38:11,945
+ Kami akan membuka pintu ke gas lagi. 
+
+1089
+01:38:12,045 --> 01:38:14,005
+ Dan tanah yang kami taklukkan ... 
+
+1090
+01:38:14,980 --> 01:38:17,120
+ ... kita akan menamai penakluk yang gagah berani. 
+
+1091
+01:38:17,440 --> 01:38:18,420
+ Semoga pak. 
+
+1092
+01:38:19,100 --> 01:38:20,100
+ Biznillah ... 
+
+1093
+01:38:20,545 --> 01:38:22,375
+ ... tempat yang kami cetak adalah asrama ... 
+
+1094
+01:38:23,085 --> 01:38:24,085
+ ... tempat-tempat itu ... 
+
+1095
+01:38:24,540 --> 01:38:26,420
+ ... yang berlindung pada yang tertindas ... 
+
+1096
+01:38:27,140 --> 01:38:28,840
+ akan menjadi negara yang sudah lama berdiri. 
+
+1097
+01:38:32,725 --> 01:38:33,725
+ Namun ... 
+
+1098
+01:38:34,615 --> 01:38:37,455
+ ... kami akan membalas dendam kakakku Aybars dulu. 
+
+1099
+01:38:37,725 --> 01:38:38,725
+ Informal ... 
+
+1100
+01:38:39,000 --> 01:38:41,280
+ ... kita melihat sahmeran ... 
+
+1101
+01:38:41,640 --> 01:38:44,220
+ ... tidak masalah jika itu adalah naga berkepala tujuh. 
+
+1102
+01:38:47,105 --> 01:38:50,175
+ Diam, Osman harus ada di sini. 
+
+1103
+01:39:05,225 --> 01:39:06,425
+ Kami menemukan jejakmu. 
+
+1104
+01:39:07,685 --> 01:39:10,175
+ Aku bahkan tidak ingin krisis, hati-hati. 
+
+1105
+01:39:33,960 --> 01:39:35,360
+ Kesembuhan, ayah saya. 
+
+1106
+01:39:35,360 --> 01:39:36,560
+ Terima kasih sayang 
+
+1107
+01:39:39,180 --> 01:39:41,260
+ Bismillahirrahmanirrahim. 
+
+1108
+01:39:50,840 --> 01:39:55,480
+ Sebelum mengacaukan, perlu untuk menemukan Osman dan mengatur pengadilan. 
+
+1109
+01:39:56,260 --> 01:39:59,280
+ Atau karena Tekfur adalah seorang pembunuh ... 
+
+1110
+01:39:59,285 --> 01:40:01,585
+ ... mereka mengangkat Bizantium ke kaki mereka ... 
+
+1111
+01:40:01,600 --> 01:40:02,960
+ ... Seljuk. 
+
+1112
+01:40:05,700 --> 01:40:08,060
+ Mari kita lihat masalah apa yang akan terbuka bagi kita? 
+
+1113
+01:40:10,505 --> 01:40:11,985
+ Apakah ada tujuan, tuan? 
+
+1114
+01:40:13,285 --> 01:40:14,475
+ Anda datang. 
+
+1115
+01:40:19,385 --> 01:40:21,755
+ Osman Bey, yang keluar dari benteng yang aman. 
+
+1116
+01:40:22,015 --> 01:40:24,245
+ Sebuah alpine datang ke oba dan melaporkannya. 
+
+1117
+01:40:28,960 --> 01:40:31,420
+ Di mana alpine Osman sekarang? 
+
+1118
+01:40:31,420 --> 01:40:32,720
+ Pak, dia memberi kabar. 
+
+1119
+01:40:39,140 --> 01:40:42,800
+ Jika Batur dekat alpine Osman, Anda harus mengikutinya. 
+
+1120
+01:40:43,020 --> 01:40:44,600
+ Osman hampir ... 
+
+1121
+01:40:44,915 --> 01:40:45,915
+ ... menemukan Anda. 
+
+1122
+01:41:15,415 --> 01:41:17,535
+ Polos Yorgo ramah-Turki ... 
+
+1123
+01:41:17,705 --> 01:41:20,125
+ ... itu memalukan bagi kita. 
+
+1124
+01:41:30,200 --> 01:41:34,440
+ Kulucahisar sekarang menjadi benteng Kristen sejati. 
+
+1125
+01:41:40,280 --> 01:41:43,480
+ Mereka harus berada di dekatnya, kita akan menyergapnya. 
+
+1126
+01:41:56,820 --> 01:41:58,060
+ Hayy adalah Allah! 
+
+1127
+01:41:58,680 --> 01:41:59,920
+ Tuhan itu benar! 
+
+1128
+01:42:25,735 --> 01:42:27,435
+ Di mana serigala akan jatuh ... 
+
+1129
+01:42:27,960 --> 01:42:29,300
+ ... adalah kaki serigala. 
+
+1130
+01:43:15,680 --> 01:43:17,720
+ Siapa yang menjatuhkanmu di kepalaku? 
+
+1131
+01:43:20,060 --> 01:43:21,180
+ Katakan, baik. 
+
+1132
+01:43:31,860 --> 01:43:32,820
+ Berbicara! 
+
+1133
+01:43:39,780 --> 01:43:40,920
+ Tidak ada! Tidak ada! 
+
+1134
+01:43:41,280 --> 01:43:43,100
+ Tidak ada! Tidak, saya tidak punya mata! 
+
+1135
+01:43:43,320 --> 01:43:44,660
+ Saya tidak bisa berhenti! 
+
+1136
+01:43:44,660 --> 01:43:45,860
+ Berhenti, aku tidak punya mata! 
+
+1137
+01:43:46,120 --> 01:43:47,000
+ Saya tidak punya mata! 
+
+1138
+01:43:47,000 --> 01:43:47,580
+ Talk. 
+
+1139
+01:43:47,580 --> 01:43:48,180
+ Saya tidak bisa berhenti! 
+
+1140
+01:43:48,560 --> 01:43:50,960
+ Biarkan saya memaafkan mata dan mata Anda. 
+
+1141
+01:43:51,140 --> 01:43:52,720
+ Berhenti, berhenti, berhenti! Berhenti! 
+
+1142
+01:43:52,820 --> 01:43:54,840
+ Baiklah Ok saya akan mengatakan 
+
+1143
+01:43:54,860 --> 01:43:57,100
+ Aku akan mengatakan! Aku akan mengatakan! Aku akan mengatakan! 
+
+1144
+01:43:57,320 --> 01:43:58,760
+ Aku akan memberitahumu baik-baik saja! 
+
+1145
+01:43:59,535 --> 01:44:00,535
+ Sofia! 
+
+1146
+01:44:00,915 --> 01:44:01,965
+ Sofia! 
+
+1147
+01:44:02,745 --> 01:44:04,225
+ Putri Sofia! 
+
+1148
+01:44:15,995 --> 01:44:17,005
+ Ini dia ... 
+
+1149
+01:44:17,465 --> 01:44:19,235
+ ... kami akan menjaga waktu. 
+
+1150
+01:44:19,820 --> 01:44:20,820
+ Bora! 
+
+1151
+01:44:22,020 --> 01:44:24,040
+ Anda menyimpannya di beech rahasia. 
+
+1152
+01:44:27,795 --> 01:44:29,215
+ Perintah saya, kepala saya, tuan. 
+
+1153
+01:44:36,595 --> 01:44:37,595
+ Bey. 
+
+1154
+01:44:38,225 --> 01:44:40,205
+ Mengapa Sofia mengejarmu? 
+
+1155
+01:44:41,405 --> 01:44:44,025
+ Konuralp tahu bahwa saya tidak membunuh suaminya. 
+
+1156
+01:44:45,565 --> 01:44:46,995
+ Bukan aku. 
+
+1157
+01:44:48,075 --> 01:44:50,245
+ Saudara perempuan yang menyelamatkan saya di rawa. 
+
+1158
+01:44:50,600 --> 01:44:52,500
+ Saya bahkan tidak tahu biarawati, tuan. 
+
+1159
+01:44:52,860 --> 01:44:54,200
+ Anda mengatakannya sekarang. 
+
+1160
+01:44:54,740 --> 01:44:56,720
+ Apa yang para biarawati lakukan dengannya ... 
+
+1161
+01:44:57,060 --> 01:44:58,940
+ ... dia pikir dia ada hubungannya denganku. 
+
+1162
+01:44:59,380 --> 01:45:01,780
+ Itu sebabnya dia mendorong penjahatnya ke penjara bawah tanah. 
+
+1163
+01:45:02,840 --> 01:45:04,260
+ Jika kita menemukan biarawati ... 
+
+1164
+01:45:05,500 --> 01:45:08,220
+ ... kami akan menemukan jawaban untuk banyak pertanyaan. 
+
+1165
+01:46:07,840 --> 01:46:10,200
+ Ketika kami mengatakan mereka tidak dapat menemukan tanda kami ... 
+
+1166
+01:46:10,825 --> 01:46:13,000
+ ... mereka telah memasuki hati kita. 
+
+1167
+01:46:13,765 --> 01:46:14,765
+ Sir. 
+
+1168
+01:46:15,860 --> 01:46:17,480
+ Bagaimana mereka menemukan harta karun itu? 
+
+1169
+01:46:17,480 --> 01:46:18,940
+ Kami akan belajar ini dari Osman. 
+
+1170
+01:46:19,560 --> 01:46:20,700
+ Bawa itu padaku! 
+
+1171
+01:46:24,795 --> 01:46:26,005
+ Tuan Yannis. 
+
+1172
+01:46:26,845 --> 01:46:29,495
+ Untuk mencapai peninggalan Sofia ... 
+
+1173
+01:46:30,445 --> 01:46:33,005
+ ... membiarkan Osman melarikan diri dari penjara bawah tanah. 
+
+1174
+01:46:34,380 --> 01:46:36,200
+ Siapa yang pergi setelah Osman? 
+
+1175
+01:46:36,200 --> 01:46:37,420
+ Hunter Teokles, tuan. 
+
+1176
+01:47:23,000 --> 01:47:25,900
+ Guru paling penting dalam hidup ... 
+
+1177
+01:47:26,380 --> 01:47:28,760
+ ... adalah rasa sakit. 
+
+1178
+01:47:30,480 --> 01:47:31,480
+ Sekarang ... 
+
+1179
+01:47:32,080 --> 01:47:33,380
+ ... beritahu aku. 
+
+1180
+01:47:35,100 --> 01:47:36,460
+ Bermain ... 
+
+1181
+01:47:38,160 --> 01:47:39,460
+ ... harta ... 
+
+1182
+01:47:42,560 --> 01:47:43,340
+ Dimana ...? 
+
+1183
+01:47:47,420 --> 01:47:48,960
+ Dimanakah Sofia? 
+
+1184
+01:47:50,040 --> 01:47:51,940
+ Anda sadar telah datang, tuan. 
+
+1185
+01:47:54,535 --> 01:47:55,895
+ Itu akan datang. 
+
+1186
+01:48:13,840 --> 01:48:16,240
+ Bagaimana kita menjelaskan hal ini kepada tuan Yannis? 
+
+1187
+01:48:16,440 --> 01:48:17,400
+ Aku tidak tahu! 
+
+1188
+01:48:17,780 --> 01:48:19,860
+ Namun, tuan Yannis akan sangat marah karenanya. 
+
+1189
+01:48:29,075 --> 01:48:30,325
+ Kemana kamu pergi Sofia? 
+
+1190
+01:48:31,680 --> 01:48:34,580
+ Sudah waktunya untuk mempelajari apa yang Anda lakukan. 
+
+1191
+01:49:03,300 --> 01:49:04,520
+ Osman Bey! 
+
+1192
+01:49:09,140 --> 01:49:09,840
+ Deh! 
+
+1193
+01:49:10,960 --> 01:49:11,820
+ Alpen! 
+
+1194
+01:49:30,715 --> 01:49:32,555
+ Anda menembakkan panah di depan saya. 
+
+1195
+01:49:33,505 --> 01:49:35,565
+ Anda akan bertemu saya tanpa topi. 
+
+1196
+01:49:36,215 --> 01:49:38,515
+ Apakah kamu teman? Apakah Anda seorang musuh? 
+
+1197
+01:49:38,620 --> 01:49:39,940
+ Siapa kamu 
+
+1198
+01:49:40,160 --> 01:49:41,280
+ Alpen yang kejam ... 
+
+1199
+01:49:41,760 --> 01:49:43,620
+ ... kita memiliki yang tertindas, nak. 
+
+1200
+01:49:44,065 --> 01:49:47,025
+ Kami harus melakukannya dengan membawa Anda ke apa yang dia cari. 
+
+1201
+01:50:08,025 --> 01:50:09,895
+ Sekarang Anda berpakaian seperti orang Turki. 
+
+1202
+01:50:12,015 --> 01:50:13,625
+ Yaman pemberani, Osman Bey. 
+
+1203
+01:50:13,625 --> 01:50:16,125
+ Anda datang ke sini setelah keingintahuan Anda. 
+
+1204
+01:50:16,135 --> 01:50:17,295
+ Jangan khawatir! 
+
+1205
+01:50:17,815 --> 01:50:19,185
+ Setelah balas dendam saya. 
+
+1206
+01:50:20,595 --> 01:50:21,595
+ Katakan, baik. 
+
+1207
+01:50:22,605 --> 01:50:25,935
+ Siapa kamu Mengapa kamu sendiri rahasia? 
+
+1208
+01:50:25,980 --> 01:50:27,780
+ Ikut dengan saya jika Anda ingin belajar ini. 
+
+1209
+01:50:27,900 --> 01:50:29,040
+ Saya disini! 
+
+1210
+01:50:30,260 --> 01:50:32,160
+ Katakan apa pun rahasiamu sekarang. 
+
+1211
+01:50:32,160 --> 01:50:34,120
+ Jawaban dari pertanyaan itu bukan milik saya. 
+
+1212
+01:50:34,915 --> 01:50:37,375
+ Jika Anda ingin menjadi sebuah yayasan, impikan saya. 
+
+1213
+01:50:39,615 --> 01:50:42,035
+ Jika itu bukan kebenaran yang Anda inginkan, ada cara untuk melakukannya. 
+
+1214
+01:50:43,500 --> 01:50:46,880
+ Namun, kita harus pergi sendiri ke mana kita pergi. 
+
+1215
+01:50:47,520 --> 01:50:48,960
+ Katakan pada Alpen. 
+
+1216
+01:50:49,640 --> 01:50:51,720
+ Biarkan mereka menunggu di sini dengan darwis. 
+
+1217
+01:50:57,120 --> 01:50:57,960
+ Alpen! 
+
+1218
+01:50:59,035 --> 01:51:00,065
+ Tunggu di sini. 
+
+1219
+01:52:13,600 --> 01:52:15,080
+ Tuan Yannis. 
+
+1220
+01:52:17,020 --> 01:52:19,060
+ Saya tidak bisa melindungi rahasianya, Pak. 
+
+1221
+01:52:32,385 --> 01:52:35,535
+ Dapatkan kehormatan membayar harga. 
+
+1222
+01:53:26,760 --> 01:53:29,920
+ Mereka menyusup ke Serez, Sofia. 
+
+1223
+01:53:30,660 --> 01:53:33,240
+ Ada mata-mata di Biara Margarit. 
+
+1224
+01:53:33,905 --> 01:53:36,245
+ Kami akan mencari tahu siapa dia. 
+
+1225
+01:53:36,720 --> 01:53:38,100
+ Bagaimana ini bisa terjadi? 
+
+1226
+01:53:38,260 --> 01:53:41,340
+ Saya datang ke sini untuk mengambil kembali kepercayaan suci Turki. 
+
+1227
+01:53:42,695 --> 01:53:44,835
+ Bukan untuk mengambil hidupmu. 
+
+1228
+01:53:46,740 --> 01:53:47,880
+ Sofia! 
+
+1229
+01:53:52,140 --> 01:53:53,320
+ Apa yang terjadi di sini 
+
+1230
+01:54:00,340 --> 01:54:02,340
+ Apa yang kamu lakukan di sini, Andreas? 
+
+1231
+01:54:02,900 --> 01:54:05,020
+ Anda adalah kekasih saya yang paling setia. 
+
+1232
+01:54:05,420 --> 01:54:07,260
+ Apa yang kamu lakukan di sini? 
+
+1233
+01:54:09,000 --> 01:54:10,780
+ Apa yang terjadi di sini, Sofia? 
+
+1234
+01:54:10,780 --> 01:54:11,780
+ Kalanoz. 
+
+1235
+01:54:11,975 --> 01:54:13,945
+ Pertama-tama taruh pedangmu di sarungmu. 
+
+1236
+01:54:14,700 --> 01:54:16,240
+ Ada sesuatu yang ingin kukatakan padamu. 
+
+1237
+01:54:16,240 --> 01:54:17,000
+ Sekarang! 
+
+1238
+01:54:17,360 --> 01:54:20,495
+ Sekarang Anda akan memberi tahu saya apa yang terjadi di sini, Sofia! 
+
+1239
+01:54:20,495 --> 01:54:21,895
+ Sekarang juga! 
+
+1240
+01:54:22,995 --> 01:54:23,995
+ Tentara! 
+
+1241
+01:54:24,415 --> 01:54:26,775
+ Tangkap Sofia dan orang-orang di sebelahnya. 
+
+1242
+01:54:28,845 --> 01:54:30,825
+ Jatuhkan pedangmu sekarang, Komandan Kalanoz! 
+
+1243
+01:54:34,005 --> 01:54:36,095
+ Jatuhkan pedangmu sekarang! 
+
+1244
+01:55:14,565 --> 01:55:16,335
+ Selamat datang, Nizamettin Efendi. 
+
+1245
+01:55:25,485 --> 01:55:28,115
+ Anda belum membayar bac untuk waktu yang baik, Hasan Efendi. 
+
+1246
+01:55:29,105 --> 01:55:32,045
+ Mari kita lihat, apakah Anda pantas menggunakan alat tenun ini? 
+
+1247
+01:55:34,635 --> 01:55:37,005
+ Anda melihat pasar yang besar itu? 
+
+1248
+01:55:37,640 --> 01:55:39,620
+ Jika saya tidak mendapatkan potongan tepat waktu ... 
+
+1249
+01:55:39,785 --> 01:55:41,640
+ Bagaimana saya mendapatkan pesanan saya di sini? 
+
+1250
+01:55:41,745 --> 01:55:43,325
+ Tidak perlu dijelaskan. 
+
+1251
+01:55:48,045 --> 01:55:51,415
+ Sampai besok, jika Anda tidak membayar kaki Anda, Anda akan membubarkan counter Anda. 
+
+1252
+01:56:07,940 --> 01:56:08,940
+ Ini Osman. 
+
+1253
+01:56:32,120 --> 01:56:33,260
+ Nizamettin Bey. 
+
+1254
+01:57:59,425 --> 01:58:01,405
+ Anda mengatakan yang sebenarnya, Osman Bey. 
+
+1255
+01:58:03,125 --> 01:58:04,125
+ Sini Basin. 
+
+1256
+01:58:49,635 --> 01:58:51,745
+ Sekarang Anda berada di ambang kebenaran. 
+
+1257
+01:58:53,495 --> 01:58:57,065
+ Temui teman informal kami dan temukan jawaban untuk pertanyaan Anda. 
+
+1258
+01:58:57,335 --> 01:58:58,895
+ Siapa temanmu? 
+
+1259
+01:58:59,545 --> 01:59:01,255
+ Buka pintu rahasiamu. 
+
+1260
+01:59:01,605 --> 01:59:03,425
+ Anda bisa melihat dengan mata kepala sendiri. 
+
+1261
+01:59:47,305 --> 01:59:49,555
+ Siapa yang saya temui? Saya ingin tahu. 
+
+1262
+02:00:14,215 --> 02:00:16,685
+ Kami penumpang benar aneh, Nak. 
+
+1263
+02:00:20,440 --> 02:00:24,120
+ Nama kami ditiupkan sebagai iman di telinga kami. 
+
+1264
+02:00:26,940 --> 02:00:28,120
+ Penduduk ... 
+
+1265
+02:00:29,125 --> 02:00:30,895
+ ... kenal Edabali. 
+
+1266
+02:00:32,235 --> 02:00:33,235
+ The Edabal. 
+
+1267
+02:00:39,775 --> 02:00:41,275
+ Teman ayahku. 
+
+1268
+02:00:43,995 --> 02:00:46,155
+ Cahaya Oğuz adalah Edabali. 
+
+1269
+02:00:53,035 --> 02:00:55,875
+ Tidak pernah mungkin melihat wajah Anda sampai hari ini. 
+
+1270
+02:00:58,275 --> 02:00:59,745
+ Syukurlah kepada Tuhanku. 
+
+1271
+02:01:14,095 --> 02:01:15,375
+ Posting serigala saya ... 
+
+1272
+02:01:17,025 --> 02:01:20,015
+ ... Tuan-tuan tidak membungkuk di depan siapa pun, Nak. 
+
+1273
+02:01:46,825 --> 02:01:47,825
+ Siapa ini? 
+
+1274
+02:01:48,345 --> 02:01:51,275
+ Kepala cerobong asap adalah putriku, Bala Hatun. 
+
+1275
+02:01:53,355 --> 02:01:55,145
+ Seperti yang Anda lihat ... 
+
+1276
+02:01:55,375 --> 02:01:57,615
+ ... teman putri saya adalah Gonca. 
+
+1277
+02:01:58,980 --> 02:02:02,720
+ Master pastor juga Tursun, salah satu kekasih kita. 
+
+1278
+02:02:07,000 --> 02:02:10,080
+ Ada banyak hal yang tidak seperti kelihatannya, Nak. 
+
+1279
+02:02:11,905 --> 02:02:13,405
+ Hitam yang kau ... 
+
+1280
+02:02:14,545 --> 02:02:16,495
+ ... apa yang Anda sebut hitam menjadi putih ... 
+
+1281
+02:02:17,015 --> 02:02:18,745
+ ... kebijaksanaan melebihi akal. 
+
+1282
+02:02:19,495 --> 02:02:21,855
+ Kebijaksanaan adalah pekerjaan orang-orang hebat seperti Anda. 
+
+1283
+02:02:23,325 --> 02:02:25,625
+ Saya mencari pembunuh saudara saya Aybars. 
+
+1284
+02:02:28,215 --> 02:02:29,595
+ Saya mengambilnya dari ayah saya. 
+
+1285
+02:02:30,115 --> 02:02:31,685
+ Aku tahu kamu dari Kırşehir. 
+
+1286
+02:02:32,995 --> 02:02:34,695
+ Apa yang kamu lakukan disini 
+
+1287
+02:02:35,145 --> 02:02:36,505
+ Kenapa kamu datang? 
+
+1288
+02:02:37,105 --> 02:02:38,515
+ Kami datang ke sini. 
+
+1289
+02:02:39,895 --> 02:02:42,405
+ Untuk meniup nafas Yesevi. 
+
+1290
+02:02:44,765 --> 02:02:46,675
+ Bakar klip kertas kebangkitan ... 
+
+1291
+02:02:47,395 --> 02:02:49,205
+ ... untuk membakar kompor kami ... 
+
+1292
+02:02:49,945 --> 02:02:52,185
+ ... untuk membangun dunia baru. 
+
+1293
+02:02:55,425 --> 02:02:56,665
+ Di jalan yang bahagia ini ... 
+
+1294
+02:02:57,780 --> 02:03:00,240
+ ... apakah kamu harus menjadi kawan dengan kami? 
+
+1295
+02:03:07,640 --> 02:03:09,160
+ Saya alhamdulillah. 
+
+1296
+02:03:12,945 --> 02:03:13,945
+ Namun ... 
+
+1297
+02:03:14,585 --> 02:03:15,715
+ Saya memiliki suatu kondisi. 
+
+1298
+02:03:18,645 --> 02:03:21,085
+ Saya ingin memiliki semua rahasia. 
+
+1299
+02:03:23,300 --> 02:03:24,400
+ Lalu ... 
+
+1300
+02:03:25,200 --> 02:03:26,660
+ ... kamu harus dengarkan aku dengan baik. 
+
